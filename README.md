@@ -13,7 +13,7 @@
 
 # Support
 
-* support is intended as my career as an independent developer, not for this specific contect
+* support is intended as my career as an independent developer, not for this specific content
 * not sure - see the donations links on my other repos for now I guess :? [DMPOWER](https://github.com/bytePro17124/DMPOWER)
 
 
