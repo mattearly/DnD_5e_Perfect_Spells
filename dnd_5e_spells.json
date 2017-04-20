@@ -1,65 +1,80 @@
 { "All Spells":
-        [
-        {
-            "Name": "Acid Splash",
-            "Classes": ["Sorcerer","Wizard"],
-            "Level": 0,
-            "School": "Conjuration",
-            "Ritual": false,
-            "Casting Time": "1 action",
-            "Range": "60ft",
-            "Components": ["Somatic","Verbal"],
-            "Material": null,
-            "Duration": "Instantaneous",
-            "Description": "You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage. This spells damage increases by 1d6 when you reach 5th Level (2d6), 11th level (3d6) and 17th level (4d6).",
-            "Source": "Player's Handbook",
-            "Source_Page": 211
-        },
-        {
-            "Name": "Aid",
-            "Classes": ["Paladin","Cleric"],
-            "Level": 2,
-            "School": "Abjuration",
-            "Ritual": false,
-            "Casting Time": "1 action",
-            "Range": "30ft",
-            "Components": ["Somatic","Verbal","Material"],
-            "Material": "a tiny strip of white cloth",
-            "Duration": "8 hours",
-            "Description": "Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.",
-            "Source": "Player's Handbook",
-            "Source_Page": 211
-        },
-        {
-            "Name": "Alarm",
-            "Classes": ["Ranger","Wizard"],
-            "Level": 1,
-            "School": "Abjuration",
-            "Ritual": true,
-            "Casting Time": "1 minute",
-            "Range": "30ft",
-            "Componenets": ["Somatic","Verbal","Material"],
-            "Material": "a tiny bell an d a piece of fine silver wire",
-            "Duration": "8 hours",
-            "Description": "You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible. A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.",
-            "Source": "Player's Handbook",
-            "Source_Page": 211
-        },
-        {
-            "Name": "Alter Self",
-            "Classes": ["Sorcerer","Wizard"],
-            "Level": 2,
-            "School": "Transmutation",
-            "Ritual": false,
-            "Casting Time": "1 action",
-            "Range": "Self",
-            "Componenets": ["Somatic","Verbal"],
-            "Material:": null,
-            "Duration": "Concentration, up to 1 hour",
-            "Description": "You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one. Aquatic Adaptation: You adapt your body to an aquatic environment, sprouting gills, and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed. Change Appearance: You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also don't appear as a creature of a different size than you, and your basic shape stays the same, if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again. Natural Weapons: You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with you unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.",
-            "Source": "Player's Handbook",
-            "Source_Page": 211
-        }
+[
+  {
+    "Name": "Acid Splash",
+    "Classes": ["Sorcerer","Wizard"],
+    "Level": 0,
+    "School": "Conjuration",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "60ft",
+    "Components": ["Somatic","Verbal"],
+    "Material": null,
+    "Duration": "Instantaneous",
+    "Description": "You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage. This spells damage increases by 1d6 when you reach 5th Level (2d6), 11th level (3d6) and 17th level (4d6).",
+    "Source": "Player's Handbook",
+    "Page": 211
+  },
+  {
+    "Name": "Aid",
+    "Classes": ["Paladin","Cleric"],
+    "Level": 2,
+    "School": "Abjuration",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "30ft",
+    "Components": ["Somatic","Verbal","Material"],
+    "Material": "a tiny strip of white cloth",
+    "Duration": "8 hours",
+    "Description": "Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.",
+    "Source": "Player's Handbook",
+    "Page": 211
+  },
+  {
+    "Name": "Alarm",
+    "Classes": ["Ranger","Wizard"],
+    "Level": 1,
+    "School": "Abjuration",
+    "Ritual": true,
+    "Casting Time": "1 minute",
+    "Range": "30ft",
+    "Componenets": ["Somatic","Verbal","Material"],
+    "Material": "a tiny bell an d a piece of fine silver wire",
+    "Duration": "8 hours",
+    "Description": "You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible. A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.",
+    "Source": "Player's Handbook",
+    "Page": 211
+  },
+  {
+    "Name": "Alter Self",
+    "Classes": ["Sorcerer","Wizard"],
+    "Level": 2,
+    "School": "Transmutation",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Self",
+    "Componenets": ["Somatic","Verbal"],
+    "Material:": null,
+    "Duration": "Concentration, up to 1 hour",
+    "Description": "You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one. Aquatic Adaptation: You adapt your body to an aquatic environment, sprouting gills, and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed. Change Appearance: You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also don't appear as a creature of a different size than you, and your basic shape stays the same, if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again. Natural Weapons: You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with you unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.",
+    "Source": "Player's Handbook",
+    "Page": 211
+  },
+  {
+    "Name": "Animal Friendship",
+    "Classes": ["Druid","Ranger","Cleric","Bard"],
+    "Level": 1,
+    "School": "Enchantment",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "30 feet",
+    "Componenets": ["Somatic","Verbal","Material"],
+    "Material:": "a morsel of food",
+    "Duration": "24 hours",
+    "Description": "This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends. At Higher Levels: When you cast this spell using a 2nd level spell slot or higher, you can affect one additional beast for each slot level above 1st.",
+    "Source": "Player's Handbook",
+    "Page": 212
+  }
 
-    ]
+]
 }
