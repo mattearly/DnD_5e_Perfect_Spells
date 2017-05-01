@@ -299,6 +299,21 @@
     "Description": "Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions - blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.",
     "Source": "Player's Handbook",
     "Page": 216
+  },
+  {
+    "Name": "Aura of Vitality",
+    "Classes": ["Paladin"],
+    "Level": 3,
+    "School": "Evocation",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Self (30-foot radius)",
+    "Components": ["Verbal"],
+    "Material": null,
+    "Duration": "Concentration, up to 1 minute",
+    "Description": "Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points.",
+    "Source": "Player's Handbook",
+    "Page": 216
   }
 
 ]
