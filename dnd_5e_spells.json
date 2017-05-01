@@ -329,7 +329,23 @@
     "Description": "After spending the casting time tracing magical pathways within a precious gemstone, you touch a huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. Your DM chooses statistics appropriate for the awakened plant, such as the statistics for the awakened shrub or the awakened tree. The awakened beast or plant is charmed by you for 30 days or until you and your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.",
     "Source": "Player's Handbook",
     "Page": 216
+  },
+  {
+    "Name": "Bane",
+    "Classes": ["Paladin", "Cleric", "Bard"],
+    "Level": 1,
+    "School": "Enchantment",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "30 feet",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a drop of blood",
+    "Duration": "Concentration, up to 1 minute",
+    "Description": "Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.",
+    "Source": "Player's Handbook",
+    "Page": 216
   }
+
 
 
 ]
