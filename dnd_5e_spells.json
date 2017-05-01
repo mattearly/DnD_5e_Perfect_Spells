@@ -389,6 +389,21 @@
     "Description": "You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.",
     "Source": "Player's Handbook",
     "Page": 217
+  },
+  {
+    "Name": "Beacon of Hope",
+    "Classes": ["Paladin", "Cleric"],
+    "Level": 3,
+    "School": "Abjuration",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "30 feet",
+    "Components": ["Somatic", "Verbal"],
+    "Material": null,
+    "Duration": "Concentration, up to 1 minute",
+    "Description": "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing."
+    "Source": "Player's Handbook",
+    "Page": 217
   }
 
 
