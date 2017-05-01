@@ -404,9 +404,21 @@
     "Description": "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing."
     "Source": "Player's Handbook",
     "Page": 217
+  },
+  {
+    "Name": "Beast Sense",
+    "Classes": ["Druid", "Ranger"],
+    "Level": 2,
+    "School": "Divination",
+    "Ritual": true,
+    "Casting Time": "1 action",
+    "Range": "Touch",
+    "Components": ["Somatic"],
+    "Material": null,
+    "Duration": "Concentration, up to 1 hour",
+    "Description": "You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses.",
+    "Source": "Player's Handbook",
+    "Page": 217
   }
-
-
-
 ]
 }
