@@ -376,19 +376,19 @@
     "Page": 217
   },
   {
-    "Name": "",
-    "Classes": [],
-    "Level": ,
-    "School": "",
-    "Ritual": ,
-    "Casting Time": "",
-    "Range": "",
-    "Components": [],
-    "Material": ,
-    "Duration": "",
-    "Description": "",
-    "Source": "",
-    "Page":
+    "Name": "Barkskin",
+    "Classes": ["Druid", "Ranger", "Cleric"],
+    "Level": 2,
+    "School": "Transmutation",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Touch",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a handful of oak bark",
+    "Duration": "Concentration, up ot 1 hour",
+    "Description": "You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.",
+    "Source": "Player's Handbook",
+    "Page": 217
   }
 
 
