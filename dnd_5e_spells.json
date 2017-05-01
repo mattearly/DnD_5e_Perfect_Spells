@@ -269,6 +269,22 @@
     "Description": "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens. 1. Weal, for good results 2. Woe, for bad results 3. Weal and Woe, for both good and bad results 4. Nothing, for results that aren't especially good or bad] The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion. If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.",
     "Source": "Player's Handbook",
     "Page": 215
+  },
+  {
+    "Name": "Aura of Life",
+    "Classes": ["Paladin", "Warlock"],
+    "Level": 4,
+    "School": "Abjuration",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Self (30-foot radius)",
+    "Components": ["Verbal"],
+    "Material": null,
+    "Duration": "Concentration, up to 10 minutes",
+    "Description": "Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can't be reduced. In addition, a non-hostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points.",
+    "Source": "Player's Handbook",
+    "Page": 216
   }
+
 ]
 }
