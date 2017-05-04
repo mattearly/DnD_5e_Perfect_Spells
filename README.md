@@ -5,16 +5,20 @@
 * also a motive to get super used to the json format
     * [Java Script Object Notation](https://www.w3schools.com/js/js_json_intro.asp)
 
+# How to Use?
+
+* You don't.
+* It's not done.
 
 # Halp
 
 * feel free to fix typos and errors and open a pull request to make changes, while I try to make these prefect, there are bound to be mistakes.
-
+* add spells in the exact format as the others
 
 # Support
 
-* support is intended as my career as an independent developer, not for this specific content
-* not sure - see the donations links on my other repos for now I guess :? [DMPOWER](https://github.com/bytePro17124/DMPOWER)
+* for my time
+* see the donations links on my other repos for now I guess :? [DMPOWER](https://github.com/bytePro17124/DMPOWER)
 
 
 # License
@@ -24,7 +28,7 @@
     
 # ToDo
 
-1. make a parser (this will be ultra handy)
+1. make a parser (this will be ultra handy) : In Progress
    * typable or combobox search fields that slim down the selection as you type
         * fields: Name, Classes, Level, School, Casting Time, Duration, Ritual, Components, Material
    * interface options to consider
