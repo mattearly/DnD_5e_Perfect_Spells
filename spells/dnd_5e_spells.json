@@ -823,6 +823,36 @@
     "Description": "You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren't necessarily omniscient, so you might receive 'unclear' as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead. If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.",
     "Source": "Player's Handbook",
     "Page": 223
+  },
+  {
+    "Name": "Commune with Nature",
+    "Classes": ["Druid", "Paladin", "Ranger"],
+    "Level": 5,
+    "School": "Divination",
+    "Ritual": true,
+    "Casting Time": "1 minute",
+    "Range": "Self",
+    "Components": ["Somatic", "Verbal"],
+    "Material": null,
+    "Duration": "Instantaneous",
+    "Description": "You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns. You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area - terrain and bodies of water; prevalent plants, minerals, animals, or peoples; powerful celestials, fey, fiends, elementals, or undead; influence from other planes of existence; buildings. For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.",
+    "Source": "Player's Handbook",
+    "Page": 224
+  },
+  {
+    "Name": "Compelled Duel",
+    "Classes": ["Paladin"],
+    "Level": 1,
+    "School": "Enchantment",
+    "Ritual": false,
+    "Casting Time": "1 bonus action",
+    "Range": "30 feet",
+    "Components": ["Verbal"],
+    "Material": null,
+    "Duration": "Concentration, up to 1 minute",
+    "Description": "You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you, if it succeeds on this saving throw, this spell doesn't restrict the target's movement for that turn. The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.",
+    "Source": "Player's Handbook",
+    "Page": 224
   }
 
 ]
