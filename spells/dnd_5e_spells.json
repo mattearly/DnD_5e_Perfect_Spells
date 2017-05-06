@@ -400,7 +400,7 @@
     "Components": ["Somatic", "Verbal"],
     "Material": null,
     "Duration": "Concentration, up to 1 minute",
-    "Description": "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing."
+    "Description": "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.",
     "Source": "Player's Handbook",
     "Page": 217
   },
