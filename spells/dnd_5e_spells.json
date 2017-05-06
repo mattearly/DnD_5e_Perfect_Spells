@@ -613,6 +613,36 @@
     "Description": "A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see 100 feet directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud). When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one. If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10. At Higher Levels: When you cast this spell using a spell slot of 4th level or higher level, the damage increases by 1d10 for each slot level above 3rd.",
     "Source": "Player's Handbook",
     "Page": 220
+  },
+  {
+    "Name": "Calm Emotions",
+    "Classes": ["Cleric", "Bard"],
+    "Level": 2,
+    "School": "Enchantment",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "60 feet",
+    "Components": ["Somatic", "Verbal"],
+    "Material": null,
+    "Duration": "Concentration, up to 1 minute",
+    "Description": "You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects. You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime. Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.",
+    "Source": "Player's Handbook",
+    "Page": 221
+  },
+  {
+    "Name": "Chain Lightning",
+    "Classes": ["Sorcerer", "Wizard"],
+    "Level": 6,
+    "School": "Evocation",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "150 feet",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a bit of fur, a piece of amber, glass, or crystal rod, and three silver pins",
+    "Duration": "Instantaneous",
+    "Description": "You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts. A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much on a successful one. At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.",
+    "Source": "Player's Handbook",
+    "Page": 221
   }
 
 ]
