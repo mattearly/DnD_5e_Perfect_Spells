@@ -658,6 +658,21 @@
     "Description": "You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.",
     "Source": "Player's Handbook",
     "Page": 221
+  },
+  {
+    "Name": "Chill Touch",
+    "Classes": ["Sorcerer", "Warlock", "Wizard"],
+    "Level": 0,
+    "School": "Necromancy",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "120 feet",
+    "Components": ["Somatic", "Verbal"],
+    "Material": null,
+    "Duration": "1 round",
+    "Description": "You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn. This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
+    "Source": "Player's Handbook",
+    "Page": 221
   }
 
 ]
