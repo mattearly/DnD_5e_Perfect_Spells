@@ -748,6 +748,21 @@
     "Description": "This spell grows an inert duplicate of a living creature as a safeguard against death. This clone forms inside as a sealed vessel and grows to full size and maturity after 120 days you can also choose to have the clone be a younger version of the same creature. It remains inert and endures indefinitely, as long as its vessel remains undisturbed. At any time after the clone matures, if the original creature dies, its soul transfers to the clone, provided that the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The original creature's physical remains, if they still exist, become inert and can't thereafter be restored to life, since the creature's soul is elsewhere.",
     "Source": "Player's Handbook",
     "Page": 222
+  },
+  {
+    "Name": "Cloud of Daggers",
+    "Classes": ["Sorcerer", "Warlock", "Wizard", "Bard"],
+    "Level": 2,
+    "School": "Conjuration",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "60 feet",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a sliver of glass",
+    "Duration": "Concentration, up to 1 minute",
+    "Description": "You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell's area for the first time on a turn or starts its turn there. At Higher Levels: when you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.",
+    "Source": "Player's Handbook",
+    "Page": 222
   }
 
 ]
