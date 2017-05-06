@@ -883,6 +883,21 @@
     "Description": "Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving throw to try to end the effect. A target isn't compelled to move into an obviously deadly hazard, such as a fire pit, but it will provoke opportunity attacks to move in the designated direction.",
     "Source": "Player's Handbook",
     "Page": 224
+  },
+  {
+    "Name": "Cone of Cold",
+    "Classes": ["Sorcerer", "Wizard"],
+    "Level": 5,
+    "School": "Evocation",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Self (60-foot cone)",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a small crystal or glass cone",
+    "Duration": "Instantaneous",
+    "Description": "A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws. At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.",
+    "Source": "Player's Handbook",
+    "Page": 224
   }
 
 ]
