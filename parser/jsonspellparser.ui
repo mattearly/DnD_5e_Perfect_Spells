@@ -276,6 +276,11 @@
            <string>120 feet</string>
           </property>
          </item>
+         <item>
+          <property name="text">
+           <string>150 feet</string>
+          </property>
+         </item>
         </widget>
        </item>
        <item>
