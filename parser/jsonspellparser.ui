@@ -140,6 +140,11 @@
          </item>
          <item>
           <property name="text">
+           <string>Enchantment</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>Abjuration</string>
           </property>
          </item>
@@ -213,7 +218,22 @@
          </item>
          <item>
           <property name="text">
+           <string>Self (10-foot radius)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Self (30-foot radius)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>Touch</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>10 feet</string>
           </property>
          </item>
          <item>
@@ -224,6 +244,16 @@
          <item>
           <property name="text">
            <string>60 feet</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>90 feet</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>120 feet</string>
           </property>
          </item>
         </widget>
