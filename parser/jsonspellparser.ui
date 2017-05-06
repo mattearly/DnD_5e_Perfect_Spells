@@ -184,6 +184,16 @@
          </item>
          <item>
           <property name="text">
+           <string>reaction</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>1 bonus action</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>1 action</string>
           </property>
          </item>
