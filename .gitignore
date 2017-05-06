@@ -38,5 +38,7 @@ dmpower
 
 # Qt 
 *.user
+*.autosave
 
+	
 
