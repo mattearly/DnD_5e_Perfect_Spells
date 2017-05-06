@@ -853,6 +853,36 @@
     "Description": "You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you, if it succeeds on this saving throw, this spell doesn't restrict the target's movement for that turn. The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.",
     "Source": "Player's Handbook",
     "Page": 224
+  },
+  {
+    "Name": "Comprehend Languages",
+    "Classes": ["Sorcerer", "Warlock", "Wizard", "Bard"],
+    "Level": 1,
+    "School": "Divination",
+    "Ritual": true,
+    "Casting Time": "1 action",
+    "Range": "Self",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a pinch of soot and salt",
+    "Duration": "1 hour",
+    "Description": "For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface of which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode secret messages in a text or glyph, such as an arcane sigil, that isn't part of a written language.",
+    "Source": "Player's Handbook",
+    "Page": 224
+  },
+  {
+    "Name": "Compulsion",
+    "Classes": ["Bard"],
+    "Level": 4,
+    "School": "Enchantment",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "30 feet",
+    "Components": ["Somatic", "Verbal"],
+    "Material": null,
+    "Duration": "Concentration, up to 1 minute",
+    "Description": "Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving throw to try to end the effect. A target isn't compelled to move into an obviously deadly hazard, such as a fire pit, but it will provoke opportunity attacks to move in the designated direction.",
+    "Source": "Player's Handbook",
+    "Page": 224
   }
 
 ]
