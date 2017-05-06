@@ -703,6 +703,21 @@
     "Description": "A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one. At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.",
     "Source": "Player's Handbook",
     "Page": 221
+  },
+  {
+    "Name": "Circle of Power",
+    "Classes": ["Paladin"],
+    "Level": 5,
+    "School": "Abjuration",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Self (30-foot radius)",
+    "Components": ["Verbal"],
+    "Material": null,
+    "Duration": "Concentration, up to 10 minutes",
+    "Description": "Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has advantage on saving throws against spells and other magical effects. Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw.",
+    "Source": "Player's Handbook",
+    "Page": 221
   }
 
 ]
