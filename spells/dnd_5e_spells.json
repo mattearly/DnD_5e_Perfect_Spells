@@ -673,6 +673,21 @@
     "Description": "You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn. This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
     "Source": "Player's Handbook",
     "Page": 221
+  },
+  {
+    "Name": "Chromatic Orb",
+    "Classes": ["Sorcerer", "Wizard"],
+    "Level": 1,
+    "School": "Evocation",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "90 feet",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a diamond worth at least 50gp",
+    "Duration": "Instantaneous",
+    "Description": "You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose. At Higher Levels: When you cast this spell using a spell slot of or higher, the damage increases by 1d8 for each slot level above 1st. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+    "Source": "Player's Handbook",
+    "Page": 221
   }
 
 ]
