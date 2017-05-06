@@ -209,6 +209,11 @@
          </item>
          <item>
           <property name="text">
+           <string>10 minutes</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>1 hour</string>
           </property>
          </item>
