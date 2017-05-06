@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>jsonspellparser</class>
+ <widget class="QWidget" name="jsonspellparser">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>2070</width>
+    <height>687</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>jsonspellparser</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout_2">
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <widget class="QLineEdit" name="searchName">
+         <property name="text">
+          <string/>
+         </property>
+         <property name="placeholderText">
+          <string>Search by Spell Name</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="searchClass">
+         <item>
+          <property name="text">
+           <string>Any Class Spells</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Bard Spells</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Cleric Spells</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Paladin Spells</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Ranger Spells</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Sorcerer  Spells</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Warlock  Spells</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Wizard  Spells</string>
+          </property>
+         </item>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="searchLevel">
+         <item>
+          <property name="text">
+           <string>Any Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Cantrip</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>1st Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>2nd Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>3rd Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>4th Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>5th Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>6th Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>7th Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>8th Level</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>9th Level</string>
+          </property>
+         </item>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="searchSchool">
+         <item>
+          <property name="text">
+           <string>Any School of Magic</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Abjuration</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Necromancy</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Evocation</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Conjuration</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Divination</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Transmutation</string>
+          </property>
+         </item>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="searchCastingTime">
+         <item>
+          <property name="text">
+           <string>Any Casting Time</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>1 action</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>1 minute</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>1 hour</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>8 hours</string>
+          </property>
+         </item>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="searchRange">
+         <item>
+          <property name="text">
+           <string>Any Range Spell</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Self</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Touch</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>30 feet</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>60 feet</string>
+          </property>
+         </item>
+        </widget>
+       </item>
+       <item>
+        <widget class="QRadioButton" name="searchNonSomatic">
+         <property name="text">
+          <string>Not Somatic</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QRadioButton" name="searchNonMaterial">
+         <property name="text">
+          <string>No Materials</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QRadioButton" name="searchNonVerbal">
+         <property name="text">
+          <string>Non Verbal</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLineEdit" name="searchMaterial">
+         <property name="placeholderText">
+          <string>Search by Required Materials</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="searchDuration">
+         <item>
+          <property name="text">
+           <string>Any Duration Spell</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Instantaneous</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Concentration, up to 1 minute</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Concentration, up to 10 minutes</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Concentration, up to 1 hour</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Special</string>
+          </property>
+         </item>
+        </widget>
+       </item>
+       <item>
+        <widget class="QRadioButton" name="searchRitual">
+         <property name="text">
+          <string>Can be cast as a Ritual</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="Line" name="line">
+       <property name="lineWidth">
+        <number>10</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="clearOptions">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Minimum" vsizetype="MinimumExpanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="text">
+        <string>CLEAR OPTIONS</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="Line" name="line_2">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QListWidget" name="listOfFoundSpells">
+       <item>
+        <property name="text">
+         <string>Spells Found List</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Double Click to View</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string/>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item>
+      <widget class="Line" name="line_3">
+       <property name="lineWidth">
+        <number>10</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QTextBrowser" name="displaySpell"/>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
