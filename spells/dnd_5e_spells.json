@@ -778,6 +778,21 @@
     "Description": "You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured. When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don't need to breathe. The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings. At Higher Levels: When you cast this spell using a spell slot of or higher, the damage increases by 1d8 for each slot level above 5th. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 5th.",
     "Source": "Player's Handbook",
     "Page": 222
+  },
+  {
+    "Name": "Color Spray",
+    "Classes": ["Sorcerer", "Wizard"],
+    "Level": 1,
+    "School": "Illusion",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Self (15-foot cone)",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a pinch of powder or sand that is colored red, yellow, and blue",
+    "Duration": "1 round",
+    "Description": "A dazzling array of flashing, colored light springs from your hand. Roll 6d10, the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can't see). Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the spell ends. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for the creature to be affected. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.",
+    "Source": "Player's Handbook",
+    "Page": 222
   }
 
 ]
