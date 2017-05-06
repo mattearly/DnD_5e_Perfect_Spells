@@ -310,6 +310,11 @@
          </item>
          <item>
           <property name="text">
+           <string>1 minute</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>Concentration, up to 1 minute</string>
           </property>
          </item>
