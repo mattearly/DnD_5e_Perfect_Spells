@@ -1051,7 +1051,7 @@
   },
   {
     "Name": "Contagion",
-    "Classes": ["Druid", "Paladin", "Warlock", "Cleric"],
+    "Classes": ["Druid", "Cleric"],
     "Level": 5,
     "School": "Necromancy",
     "Ritual": false,
@@ -1063,7 +1063,21 @@
     "Description": "Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below. At the end of each of the target's turns, it must make a Constitution saving throw. After failing three of these saving throws, the disease's effects last for the duration, and the creature stops making these saves. After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends. Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it. Blinding Sickness: Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded. Filth Fever: A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength. Flesh Rot: The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage. Mindfire: The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the confusion spell during combat. Seizure: The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity. Slimy Doom: The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.",
     "Source": "Player's Handbook",
     "Page": 227
+  },
+  {
+    "Name": "Contingency",
+    "Classes": ["Wizard"],
+    "Level": 6,
+    "School": "Evocation",
+    "Ritual": false,
+    "Casting Time": "10 minutes",
+    "Range": "Self",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp",
+    "Duration": "10 days",
+    "Description": "Choose a spell of or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell, called the contingent spell, as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with water breathing might stipulate that water breathing comes into effect when you are engulfed in water or a similar liquid. The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends. The contingent spell takes effect only on you, even if it can normally target others. You can use only one contingency spell at a time. If you cast this spell again, the effect of another contingency spell on you ends. Also, contingency ends on you if its material component is ever not on your person.",
+    "Source": "Player's Handbook",
+    "Page": 227
   }
-
 ]
 }
