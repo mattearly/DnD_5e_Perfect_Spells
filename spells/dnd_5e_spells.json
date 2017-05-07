@@ -1018,6 +1018,52 @@
     "Description": "You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmagical weapon into the air and choose a point within range. Hundreds of duplicates of the ammunition or weapon fall in a volley from above and then disappear. Each creature in a 40-foot-radius. 20-foot-high cylinder centered on that point must make a Dexterity saving throw. A creature takes 8d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the ammunition or weapon.",
     "Source": "Player's Handbook",
     "Page": 226
+  },
+  {
+    "Name": "Conjure Woodland Beings",
+    "Classes": ["Druid", "Ranger"],
+    "Level": 4,
+    "School": "Conjuration",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "60 feet",
+    "Components": ["Somatic", "Verbal", "Material"],
+    "Material": "one holly berry per creature summoned",
+    "Duration": "Concentration, up to 1 hour",
+    "Description": "You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears. \u00e2\u20ac\u00a2 One fey creature of challenge rating 2 or lower \u00e2\u20ac\u00a2 Two fey creatures of challenge rating 1 or lower \u00e2\u20ac\u00a2 Four fey creatures of challenge rating 1/2 or lower \u00e2\u20ac\u00a2 Eight fey creatures of challenge rating 1/4 or lower A summoned creature disappears when it drops to 0 hit points or when the spell ends. The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The DM has the creatures' statistics. At Higher Levels: When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear - twice as many with a 6th-level slot and three times as many with an 8th-level slot.",
+    "Source": "Player's Handbook",
+    "Page": 226
+  },
+  {
+    "Name": "Contact Other Plane",
+    "Classes": ["Warlock", "Wizard"],
+    "Level": 5,
+    "School": "Divination",
+    "Ritual": true,
+    "Casting Time": "1 minute",
+    "Range": "Self",
+    "Components": ["Verbal"],
+    "Material": null,
+    "Duration": "1 minute",
+    "Description": "You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish. A greater restoration spell cast on you ends this effect. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as yes, no, maybe, never, irrelevant, unclear (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.",
+    "Source": "Player's Handbook",
+    "Page": 226
+  },
+  {
+    "Name": "Contagion",
+    "Classes": ["Druid", "Paladin", "Warlock", "Cleric"],
+    "Level": 5,
+    "School": "Necromancy",
+    "Ritual": false,
+    "Casting Time": "1 action",
+    "Range": "Touch",
+    "Components": ["Somatic", "Verbal"],
+    "Material": null,
+    "Duration": "7 days",
+    "Description": "Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below. At the end of each of the target's turns, it must make a Constitution saving throw. After failing three of these saving throws, the disease's effects last for the duration, and the creature stops making these saves. After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends. Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it. Blinding Sickness: Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded. Filth Fever: A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength. Flesh Rot: The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage. Mindfire: The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the confusion spell during combat. Seizure: The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity. Slimy Doom: The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.",
+    "Source": "Player's Handbook",
+    "Page": 227
   }
+
 ]
 }
