@@ -350,6 +350,11 @@
          </item>
          <item>
           <property name="text">
+           <string>7 days</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>Special</string>
           </property>
          </item>
