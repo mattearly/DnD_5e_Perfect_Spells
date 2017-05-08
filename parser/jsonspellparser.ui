@@ -194,12 +194,12 @@
          </item>
          <item>
           <property name="text">
-           <string>1 bonus action</string>
+           <string>bonus action</string>
           </property>
          </item>
          <item>
           <property name="text">
-           <string>1 action</string>
+           <string>action</string>
           </property>
          </item>
          <item>
