@@ -9,7 +9,7 @@
       "level": 0,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "60ft",
       "components": [
         "Somatic",
@@ -30,7 +30,7 @@
       "level": 2,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -74,7 +74,7 @@
       "level": 2,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self",
       "components": [
         "Somatic",
@@ -96,7 +96,7 @@
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -119,7 +119,7 @@
       "level": 2,
       "school": "Enchantment",
       "ritual": true,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -140,7 +140,7 @@
       "level": 8,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -184,7 +184,7 @@
       "level": 5,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "120 feet",
       "components": [
         "Somatic",
@@ -204,7 +204,7 @@
       "level": 5,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (10-foot radius)",
       "components": [
         "Somatic",
@@ -225,7 +225,7 @@
       "level": 8,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (10-foot radius)",
       "components": [
         "Somatic",
@@ -268,7 +268,7 @@
       "level": 4,
       "school": "Divination",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -289,7 +289,7 @@
       "level": 2,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Touch",
       "components": [
         "Somatic",
@@ -310,7 +310,7 @@
       "level": 1,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self",
       "components": [
         "Somatic",
@@ -331,7 +331,7 @@
       "level": 1,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (10-foot radius)",
       "components": [
         "Somatic",
@@ -395,7 +395,7 @@
       "level": 4,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (30-foot radius)",
       "components": [
         "Verbal"
@@ -414,7 +414,7 @@
       "level": 4,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (30-foot radius)",
       "components": [
         "Verbal"
@@ -433,7 +433,7 @@
       "level": 3,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (30-foot radius)",
       "components": [
         "Verbal"
@@ -475,7 +475,7 @@
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -496,7 +496,7 @@
       "level": 5,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 bonus action",
+      "castingTime": "bonus action",
       "Range": "Self",
       "components": [
         "Verbal"
@@ -519,7 +519,7 @@
       "level": 4,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "60 feet",
       "components": [
         "Somatic",
@@ -541,7 +541,7 @@
       "level": 2,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Touch",
       "components": [
         "Somatic",
@@ -562,7 +562,7 @@
       "level": 3,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -583,7 +583,7 @@
       "level": 2,
       "school": "Divination",
       "ritual": true,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Touch",
       "components": [
         "Somatic"
@@ -604,7 +604,7 @@
       "level": 3,
       "school": "Necromancy",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Touch",
       "components": [
         "Somatic",
@@ -624,7 +624,7 @@
       "level": 5,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "120 feet",
       "components": [
         "Somatic",
@@ -645,7 +645,7 @@
       "level": 6,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "90 feet",
       "components": [
         "Somatic",
@@ -668,7 +668,7 @@
       "level": 0,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self",
       "components": [
         "Somatic",
@@ -689,7 +689,7 @@
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -714,7 +714,7 @@
       "level": 4,
       "school": "Necromancy",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -734,7 +734,7 @@
       "level": 3,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 bonus action",
+      "castingTime": "bonus action",
       "Range": "Self",
       "components": [
         "Verbal"
@@ -756,7 +756,7 @@
       "level": 2,
       "school": "Necromancy",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Verbal"
@@ -776,7 +776,7 @@
       "level": 3,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self",
       "components": [
         "Somatic",
@@ -797,7 +797,7 @@
       "level": 2,
       "school": "Illusion",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self",
       "components": [
         "Verbal"
@@ -816,7 +816,7 @@
       "level": 2,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 bonus action",
+      "castingTime": "bonus action",
       "Range": "Self",
       "components": [
         "Verbal"
@@ -836,7 +836,7 @@
       "level": 1,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (15-foot cone)",
       "components": [
         "Somatic",
@@ -856,7 +856,7 @@
       "level": 3,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "120 feet",
       "components": [
         "Somatic",
@@ -877,7 +877,7 @@
       "level": 2,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "60 feet",
       "components": [
         "Somatic",
@@ -898,7 +898,7 @@
       "level": 6,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "150 feet",
       "components": [
         "Somatic",
@@ -923,7 +923,7 @@
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -945,7 +945,7 @@
       "level": 0,
       "school": "Necromancy",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "120 feet",
       "components": [
         "Somatic",
@@ -966,7 +966,7 @@
       "level": 1,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "90 feet",
       "components": [
         "Somatic",
@@ -989,7 +989,7 @@
       "level": 6,
       "school": "Necromancy",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "150 feet",
       "components": [
         "Somatic",
@@ -1010,7 +1010,7 @@
       "level": 5,
       "school": "Abjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (30-foot radius)",
       "components": [
         "Verbal"
@@ -1077,7 +1077,7 @@
       "level": 2,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "60 feet",
       "components": [
         "Somatic",
@@ -1099,7 +1099,7 @@
       "level": 5,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "120 feet",
       "components": [
         "Somatic",
@@ -1120,7 +1120,7 @@
       "level": 1,
       "school": "Illusion",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (15-foot cone)",
       "components": [
         "Somatic",
@@ -1143,7 +1143,7 @@
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "60 feet",
       "components": [
         "Verbal"
@@ -1206,7 +1206,7 @@
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 bonus action",
+      "castingTime": "bonus action",
       "Range": "30 feet",
       "components": [
         "Verbal"
@@ -1228,7 +1228,7 @@
       "level": 1,
       "school": "Divination",
       "ritual": true,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self",
       "components": [
         "Somatic",
@@ -1249,7 +1249,7 @@
       "level": 4,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "30 feet",
       "components": [
         "Somatic",
@@ -1270,7 +1270,7 @@
       "level": 5,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (60-foot cone)",
       "components": [
         "Somatic",
@@ -1294,7 +1294,7 @@
       "level": 4,
       "school": "Enchantment",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "90 feet",
       "components": [
         "Somatic",
@@ -1316,7 +1316,7 @@
       "level": 3,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "60 feet",
       "components": [
         "Somatic",
@@ -1336,7 +1336,7 @@
       "level": 3,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Self (60-foot cone)",
       "components": [
         "Somatic",
@@ -1441,7 +1441,7 @@
       "level": 5,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "150 feet",
       "components": [
         "Somatic",
@@ -1463,7 +1463,7 @@
       "level": 4,
       "school": "Conjuration",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "60 feet",
       "components": [
         "Somatic",
@@ -1505,7 +1505,7 @@
       "level": 5,
       "school": "Necromancy",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Touch",
       "components": [
         "Somatic",
@@ -1534,7 +1534,7 @@
       ],
       "material": "a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp",
       "duration": "10 days",
-      "description": "Choose a spell of or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell, called the contingent spell, as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with water breathing might stipulate that water breathing comes into effect when you are engulfed in water or a similar liquid. The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends. The contingent spell takes effect only on you, even if it can normally target others. You can use only one contingency spell at a time. If you cast this spell again, the effect of another contingency spell on you ends. Also, contingency ends on you if its material component is ever not on your person.",
+      "description": "Choose a spell of or lower that you can cast, that has a casting time of action, and that can target you. You cast that spell, called the contingent spell, as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with water breathing might stipulate that water breathing comes into effect when you are engulfed in water or a similar liquid. The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends. The contingent spell takes effect only on you, even if it can normally target others. You can use only one contingency spell at a time. If you cast this spell again, the effect of another contingency spell on you ends. Also, contingency ends on you if its material component is ever not on your person.",
       "source": "Player's Handbook",
       "page": 227
     },
@@ -1547,7 +1547,7 @@
       "level": 2,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "Touch",
       "components": [
         "Somatic",
@@ -1569,7 +1569,7 @@
       "level": 4,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "Range": "300 feet",
       "components": [
         "Somatic",
@@ -1611,7 +1611,7 @@
       "level": 2,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "1 action",
+      "castingTime": "action",
       "range": "5 feet",
       "components": [
         "Somatic",
@@ -1638,6 +1638,21 @@
       "description": "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect. At Higher Level. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.",
       "source": "Player's Handbook",
       "page": 228
+    },
+    {
+      "name": "Create Food and Water",
+      "classes": ["Cleric", "Paladin"],
+      "level": 3,
+      "school": "Conjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "30 feet",
+      "components": ["Somatic", "Verbal"],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.",
+      "source": "Player's Handbook",
+      "page": 229
     }
   ]
 }
