@@ -1623,6 +1623,21 @@
       "description": "You plant four pieces of nonmagical ammunition - arrows or crossbow bolts - in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains. When you cast this spell, you can designate any creatures you choose, and the spell ignores them. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd",
       "source": "Player's Handbook",
       "page": 228
+    },
+    {
+      "name": "Counterspell",
+      "classes": ["Sorcerer", "Warlock", "Wizard"],
+      "level": 3,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "reaction",
+      "range": "60 feet",
+      "components": ["Somatic"],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect. At Higher Level. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.",
+      "source": "Player's Handbook",
+      "page": 228
     }
   ]
 }
