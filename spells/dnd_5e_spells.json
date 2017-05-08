@@ -1725,7 +1725,28 @@
       "description": "You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range - soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before. The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration. Material - Duration:  Vegetable matter - 1 day Stone/crystal - 12 hours Precious metals - 1 hour Gems - 10 minutes Adamantine/Mithral - 1 minute Using any material created by this spell as another spell's material component causes that spell to fail. At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.",
       "source": "Player's Handbook",
       "page": 229
+    },
+    {
+      "name": "Crown of Madness",
+      "classes": [
+        "Bard",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+      ],
+      "level": 2,
+      "school": "Enchantment",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "120 feet",
+      "components": ["Somatic", "Verbal"],
+      "material": null,
+      "duration": "Concentration, up to 1 minute",
+      "description": "One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes. The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach. On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.",
+      "source": "Player's Handbook",
+      "page": 229
     }
+
 
   ]
 }
