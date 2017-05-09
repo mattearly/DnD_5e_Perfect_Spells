@@ -335,12 +335,12 @@
          </item>
          <item>
           <property name="text">
-           <string>1 minute</string>
+           <string>Concentration, up to 1 minute</string>
           </property>
          </item>
          <item>
           <property name="text">
-           <string>Concentration, up to 1 minute</string>
+           <string>1 minute</string>
           </property>
          </item>
          <item>
@@ -371,6 +371,16 @@
          <item>
           <property name="text">
            <string>10 days</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>New Item</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Until dispelled</string>
           </property>
          </item>
          <item>
