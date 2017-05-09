@@ -1945,6 +1945,46 @@
       "description": "You create a shadowy door on a flat solid surface that you can see within range. The door is large enough to allow Medium creatures to pass through unhindered. When opened, the door leads to a demiplane that appears to be an empty room 30 feet in each dimension, made of wood or stone. When the spell ends, the door disappears, and any creatures or objects inside the demiplane remain trapped there, as the door also disappears from the other side. Each time you cast this spell, you can create a new demiplane, or have the shadowy door connect to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can have the shadowy door connect to its demiplane instead.",
       "source": "Player's Handbook",
       "page": 231
+    },
+    {
+      "name": "Destructive Wave",
+      "classes": [
+        "Paladin"
+      ],
+      "level": 5,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self (30-foot radius)",
+      "components": [
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn't knocked prone.",
+      "source": "Player's Handbook",
+      "page": 231
+    },
+    {
+      "name": "Detect Evil and Good",
+      "classes": [
+        "Paladin",
+        "Cleric"
+      ],
+      "level": 1,
+      "school": "Divination",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 10 minutes",
+      "description": "For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place of object within 30 feet of you that has been magically consecrated or desecrated. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
+      "source": "Player's Handbook",
+      "page": 231
     }
 
 
