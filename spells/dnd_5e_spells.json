@@ -1835,6 +1835,30 @@
       "description": "Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness. If any of this spell's area overlaps with an area of light created by a spell of or lower, the spell that created the light is dispelled.",
       "source": "Player's Handbook",
       "page": 230
+    },
+    {
+      "name": "Darkvision",
+      "classes": [
+        "Druid",
+        "Ranger",
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 2,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "either a pinch of dried carrot or an agate",
+      "duration": "8 hours",
+      "description": "You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.",
+      "source": "Player's Handbook",
+      "page": 230
     }
 
 
