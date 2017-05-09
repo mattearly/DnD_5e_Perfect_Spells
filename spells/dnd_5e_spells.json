@@ -2220,7 +2220,7 @@
       "level": 1,
       "school": "Evocation",
       "ritual": false,
-      "castingTime": "action",
+      "castingTime": "bonus action",
       "range": "Self",
       "components": [
         "Somatic",
@@ -2229,6 +2229,25 @@
       "material": null,
       "duration": "Concentration, up to 1 minute",
       "description": "Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit.",
+      "source": "Player's Handbook",
+      "page": 234
+    },
+    {
+      "name": "Divine Word",
+      "classes": [
+        "Cleric"
+      ],
+      "level": 7,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "bonus action",
+      "range": "30 feet",
+      "components": [
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points. \u00e2\u20ac\u00a2 50 hit points or fewer - deafened for 1 minute \u00e2\u20ac\u00a2 40 hit points or fewer - deafened and blinded for 10 minutes \u00e2\u20ac\u00a2 30 hit points or fewer - blinded, deafened, and stunned for 1 hour \u00e2\u20ac\u00a2 20 hit points or fewer - killed instantly Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a wish spell.",
       "source": "Player's Handbook",
       "page": 234
     }
