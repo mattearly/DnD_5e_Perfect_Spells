@@ -1859,6 +1859,30 @@
       "description": "You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.",
       "source": "Player's Handbook",
       "page": 230
+    },
+    {
+      "name": "Daylight",
+      "classes": [
+        "Druid",
+        "Paladin",
+        "Ranger",
+        "Cleric",
+        "Sorcerer"
+      ],
+      "level": 3,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "1 hour",
+      "description": "A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet. If you chose a point on an object you are holding or one that isn't being worn or carried, the light shines from the object with and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light. If any of this spell's area overlaps with an area of darkness created by a spell of or lower, the spell that created the darkness is dispelled.",
+      "source": "Player's Handbook",
+      "page": 230
     }
 
 
