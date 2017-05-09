@@ -1985,6 +1985,32 @@
       "description": "For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place of object within 30 feet of you that has been magically consecrated or desecrated. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
       "source": "Player's Handbook",
       "page": 231
+    },
+    {
+      "name": "Detect Magic",
+      "classes": [
+        "Druid",
+        "Paladin",
+        "Sorcerer",
+        "Cleric",
+        "Bard",
+        "Ranger",
+        "Wizard"
+      ],
+      "level": 1,
+      "school": "Divination",
+      "ritual": true,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 10 minutes",
+      "description": "For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
+      "source": "Player's Handbook",
+      "page": 231
     }
 
 
