@@ -1813,6 +1813,28 @@
       "description": "You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius. As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.",
       "source": "Player's Handbook",
       "page": 230
+    },
+    {
+      "name": "Darkness",
+      "classes": [
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+      ],
+      "level": 3,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": [
+        "Verbal",
+        "Material"
+      ],
+      "material": "bat fur and a drop of pitch or piece of coal",
+      "duration": "Concentration, up to 10 minutes",
+      "description": "Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness. If any of this spell's area overlaps with an area of light created by a spell of or lower, the spell that created the light is dispelled.",
+      "source": "Player's Handbook",
+      "page": 230
     }
 
 
