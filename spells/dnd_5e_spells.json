@@ -1739,7 +1739,10 @@
       "ritual": false,
       "castingTime": "action",
       "range": "120 feet",
-      "components": ["Somatic", "Verbal"],
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
       "material": null,
       "duration": "Concentration, up to 1 minute",
       "description": "One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes. The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach. On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.",
@@ -1748,13 +1751,17 @@
     },
     {
       "name": "Crusader's Mantle",
-      "classes": ["Paladin"],
+      "classes": [
+        "Paladin"
+      ],
       "level": 3,
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
       "range": "Self",
-      "components": ["Verbal"],
+      "components": [
+        "Verbal"
+      ],
       "material": null,
       "duration": "Concentration, up to 1 minute",
       "description": "Holy power radiates from you in an aura with a 30-foot radius, awakening boldness in friendly creatures. Until the spell ends, the aura moves with you, centered on you. While in the aura, each non-hostile creature in the aura (including you) deals an extra 1d4 radiant damage when it hits with a weapon attack.",
@@ -1763,16 +1770,47 @@
     },
     {
       "name": "Cure Wounds",
-      "classes": ["Druid", "Paladin","Ranger","Cleric","Bard"],
+      "classes": [
+        "Druid",
+        "Paladin",
+        "Ranger",
+        "Cleric",
+        "Bard"],
       "level": 1,
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
       "range": "Touch",
-      "components": ["Somatic", "Verbal"],
-      "material": ,
-      "duration": "",
-      "description": "",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+      "source": "Player's Handbook",
+      "page": 230
+    },
+    {
+      "name": "Dancing Lights",
+      "classes": [
+        "Sorcerer",
+        "Wizard",
+        "Bard"
+      ],
+      "level": 0,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "120 feet",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a bit of phosphorus or wychwood, or a glowworm",
+      "duration": "Concentration, up to 1 minute",
+      "description": "You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius. As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.",
       "source": "Player's Handbook",
       "page": 230
     }
