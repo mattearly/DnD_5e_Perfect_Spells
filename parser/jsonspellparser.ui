@@ -350,6 +350,16 @@
          </item>
          <item>
           <property name="text">
+           <string>1 hour</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>8 hours</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>7 days</string>
           </property>
          </item>
