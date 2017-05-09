@@ -2211,6 +2211,26 @@
       "description": "Your magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen. The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion. If you cast this spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.",
       "source": "Player's Handbook",
       "page": 234
+    },
+    {
+      "name": "Divine Favor",
+      "classes": [
+        "Paladin"
+      ],
+      "level": 1,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 1 minute",
+      "description": "Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit.",
+      "source": "Player's Handbook",
+      "page": 234
     }
 
 
