@@ -2506,6 +2506,47 @@
       "description": "The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away. While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed. At Higher Levels: If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.",
       "source": "Player's Handbook",
       "page": 237
+    },
+    {
+      "name": "Entangle",
+      "classes": [
+        "Druid"
+      ],
+      "level": 1,
+      "school": "Conjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "90 feet",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 1 minute",
+      "description": "Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.",
+      "source": "Player's Handbook",
+      "page": 238
+    },
+    {
+      "name": "Enthrall",
+      "classes": [
+        "Warlock",
+        "Bard"
+      ],
+      "level": 2,
+      "school": "Enchantment",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "1 minute",
+      "description": "You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.",
+      "source": "Player's Handbook",
+      "page": 238
     }
 
   ]
