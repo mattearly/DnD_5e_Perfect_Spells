@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>2070</width>
-    <height>729</height>
+    <width>2813</width>
+    <height>782</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -412,7 +412,7 @@
      <item>
       <widget class="QPushButton" name="clearOptions">
        <property name="sizePolicy">
-        <sizepolicy hsizetype="Minimum" vsizetype="MinimumExpanding">
+        <sizepolicy hsizetype="Minimum" vsizetype="Maximum">
          <horstretch>0</horstretch>
          <verstretch>0</verstretch>
         </sizepolicy>
