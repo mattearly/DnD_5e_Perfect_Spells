@@ -40,5 +40,8 @@ dmpower
 *.user
 *.autosave
 
+# Qt builds
+build-*/
+
 	
 

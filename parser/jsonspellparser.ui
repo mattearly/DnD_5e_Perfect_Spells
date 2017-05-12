@@ -233,12 +233,12 @@
          </item>
          <item>
           <property name="text">
-           <string>Self (15-foot cone)</string>
+           <string>Self</string>
           </property>
          </item>
          <item>
           <property name="text">
-           <string>Self</string>
+           <string>Touch</string>
           </property>
          </item>
          <item>
@@ -248,12 +248,12 @@
          </item>
          <item>
           <property name="text">
-           <string>Self (30-foot radius)</string>
+           <string>Self (15-foot cone)</string>
           </property>
          </item>
          <item>
           <property name="text">
-           <string>Touch</string>
+           <string>Self (30-foot radius)</string>
           </property>
          </item>
          <item>
@@ -417,7 +417,7 @@
      <item>
       <widget class="QPushButton" name="clearOptions">
        <property name="sizePolicy">
-        <sizepolicy hsizetype="Minimum" vsizetype="Maximum">
+        <sizepolicy hsizetype="Minimum" vsizetype="MinimumExpanding">
          <horstretch>0</horstretch>
          <verstretch>0</verstretch>
         </sizepolicy>
