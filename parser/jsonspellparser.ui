@@ -360,6 +360,11 @@
          </item>
          <item>
           <property name="text">
+           <string>Up to 8 hours</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>8 hours</string>
           </property>
          </item>
