@@ -21,7 +21,7 @@
 
 ### Support
 
-* For my time [DMPOWER](https://github.com/bytePro17124/DMPOWER)
+* For my time [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=45RLH5HDMQZYC)
 
 ### License
 
