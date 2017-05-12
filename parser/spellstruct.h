@@ -1,16 +1,28 @@
 #pragma once
-#include <string>
+
 #include <vector>
 #include <QString>
+
 struct spell {
-    std::string Name;
-    std::vector<std::string> Classes;
+
+    QString Name;
+
+    std::vector<QString> Classes;
+
     int Level;
-    std::string School;
+
+    QString School;
+
     bool Ritual;
-    std::string CastingTime;
-    std::string Range;
-    std::vector<std::string> Components;
-    std::string Material;
-    std::string Duration;
+
+    QString CastingTime;
+
+    QString Range;
+
+    std::vector<QString> Components;
+
+    QString Material;
+
+    QString Duration;
+
 }
