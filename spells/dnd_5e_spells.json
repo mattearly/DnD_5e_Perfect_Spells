@@ -2698,6 +2698,30 @@
       "description": "olstering yourself with a necromantic facsimile of life, you gain 1d4+4 temporary hit points for the duration. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.",
       "source": "Player's Handbook",
       "page": 239
+    },
+    {
+      "name": "Fear",
+      "classes": [
+        "Bard",
+        "Warlock",
+        "Wizard",
+        "Sorcerer"
+      ],
+      "level": 3,
+      "school": "Illusion",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self (30-foot cone)",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a white feather or the heart of a hen",
+      "duration": "Concentration, up to 1 minute",
+      "description": "You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration. While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.",
+      "source": "Player's Handbook",
+      "page": 239
     }
 
 
