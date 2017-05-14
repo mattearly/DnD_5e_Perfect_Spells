@@ -2899,8 +2899,28 @@
       "description": "You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw. It takes 7d8+30 necrotic damage on a failed save, or half as much damage on a successful one. A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your command, following your verbal orders to the best of its ability.",
       "source": "Player's Handbook",
       "page": 241
+    },
+    {
+      "name": "Fire Bolt",
+      "classes": [
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 0,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "120 feet",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried. This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).",
+      "source": "Player's Handbook",
+      "page": 242
     }
-
 
   ]
 }
