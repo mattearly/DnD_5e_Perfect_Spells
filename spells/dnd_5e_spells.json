@@ -2676,6 +2676,28 @@
       "description": "Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.",
       "source": "Player's Handbook",
       "page": 239
+    },
+    {
+      "name": "False Life",
+      "classes": [
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 1,
+      "school": "Necromancy",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a small amount of alcohol or distilled spirits",
+      "duration": "1 hour",
+      "description": "olstering yourself with a necromantic facsimile of life, you gain 1d4+4 temporary hit points for the duration. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.",
+      "source": "Player's Handbook",
+      "page": 239
     }
 
 
