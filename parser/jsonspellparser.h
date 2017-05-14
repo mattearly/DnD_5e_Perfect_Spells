@@ -22,6 +22,8 @@ public:
 
 private:
     Ui::jsonspellparser *ui;
+
+    void pullSpellListfromJSON(const std::string &filelocation);
 };
 
 #endif // JSONSPELLPARSER_H

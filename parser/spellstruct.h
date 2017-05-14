@@ -25,4 +25,4 @@ struct spell {
 
     QString Duration;
 
-}
+};
