@@ -2722,6 +2722,28 @@
       "description": "You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration. While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.",
       "source": "Player's Handbook",
       "page": 239
+    },
+    {
+      "name": "Feather Fall",
+      "classes": [
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 1,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "reaction",
+      "range": "60 feet",
+      "components": [
+        "Verbal",
+        "Material"
+      ],
+      "material": "a white feather or the heart of a hen",
+      "duration": "1 minute",
+      "description": "Reaction - When you or a creature within 60 feet of you falls Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.",
+      "source": "Player's Handbook",
+      "page": 239
     }
 
 
