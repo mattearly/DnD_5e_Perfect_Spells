@@ -258,6 +258,11 @@
          </item>
          <item>
           <property name="text">
+           <string>Self (30-foot cone)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>10 feet</string>
           </property>
          </item>
