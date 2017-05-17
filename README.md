@@ -10,6 +10,7 @@
 ### How to Use?
 
 * It's not done yet.
+    * The web parser will be hosted [here](https://bytePro17124.github.io/DnD_5e_Perfect_Spells)
 * The main data file for this project is 
     * [spells/dnd_5e_spells.json](spells/dnd_5e_spells.json)
 
