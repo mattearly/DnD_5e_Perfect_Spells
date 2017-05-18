@@ -3,4 +3,4 @@
 * make changes to [bigSassy.sass](bigSassy.sass)
 * run ``sass bigSassy.sass ../style/style.css``
 
-relies on ruby and the sass gem
+relies on ruby and the sass gemz
