@@ -2,7 +2,6 @@
  # files not needed by every user
 
 .directory
-dmpower
 *.stackdump
 *.user
 *.save
@@ -45,6 +44,9 @@ build-*/
 
 # Intellij
 .idea/
+
+# sass
+.sass*/
 
 	
 
