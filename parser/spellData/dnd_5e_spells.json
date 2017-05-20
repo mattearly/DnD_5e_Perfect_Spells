@@ -3341,6 +3341,48 @@
       "description": "You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion. Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement. A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it. The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.",
       "source": "Player's Handbook",
       "page": 245
+    },
+    {
+      "name": "Glibness",
+      "classes": [
+        "Warlock",
+        "Bard"
+      ],
+      "level": 8,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "1 hour",
+      "description": "Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.",
+      "source": "Player's Handbook",
+      "page": 245
+    },
+    {
+      "name": "Globe of Invulnerability",
+      "classes": [
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 6,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self (10-foot radius)",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a glass or crystal bead that shatters when the spell ends",
+      "duration": "Concentration, up to 1 minute",
+      "description": "An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration. Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells. At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.",
+      "source": "Player's Handbook",
+      "page": 245
     }
 
   ]
