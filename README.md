@@ -36,6 +36,8 @@
         * visual studio
         * other options
 2. Finish JSON spell list
+3. vector graphic of open spellbook for webpage
+
 
         
         

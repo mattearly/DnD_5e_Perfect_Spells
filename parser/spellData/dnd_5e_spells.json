@@ -3302,7 +3302,45 @@
       "page": 244
     },
     {
-      
+      "name": "Gentle Repose",
+      "classes": [
+        "Cleric"
+      ],
+      "level": 2,
+      "school": "Necromancy",
+      "ritual": true,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration",
+      "duration": "10 days",
+      "description": "You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead. The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as raise dead.",
+      "source": "Player's Handbook",
+      "page": 245
+    },
+    {
+      "name": "Giant Insect",
+      "classes": [
+        "Druid"
+      ],
+      "level": 4,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "30 feet",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 10 minutes",
+      "description": "You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion. Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement. A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it. The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.",
+      "source": "Player's Handbook",
+      "page": 245
     }
 
   ]
