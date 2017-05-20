@@ -1,0 +1,19 @@
+body {
+	background-color: skyblue;
+}
+
+.bookWindow {
+	width: 1580px;
+	height: 1114px;
+}
+
+.book {
+	width: 100%;
+	height: 100%;
+	background-image: url("img/spellbook.png");
+	background-color: skyblue;
+	background-repeat: no-repeat;
+	/*background-attachment: fixed;*/
+	background-position: center;
+	background-size: cover;
+}
