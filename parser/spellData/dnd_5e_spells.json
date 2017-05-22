@@ -3383,6 +3383,157 @@
       "description": "An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration. Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells. At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.",
       "source": "Player's Handbook",
       "page": 245
+    },
+    {
+      "name": "Glyph of Warding",
+      "classes": [
+        "Cleric",
+        "Wizard",
+        "Bard"
+      ],
+      "level": 3,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "1 hour",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "incense and powdered diamond worth at least 200 gp, which the spell consumes",
+      "duration": "Until dispelled or triggered",
+      "description": "When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place, if the object is moved more than 10 feet from where you cast this spell, the glyph is broken and the spell ends without being triggered. The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found. You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends. You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password. When you inscribe the glyph, choose explosive runes or a spell glyph. Explosive Runes: When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the aura must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one. Spell Glyph: You can store a prepared spell of or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration. At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.",
+      "source": "Player's Handbook",
+      "page": 245
+    },
+    {
+      "name": "Goodberry",
+      "classes": [
+        "Druid",
+        "Ranger"
+      ],
+      "level": 1,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a sprig of mistletoe",
+      "duration": "Instantaneous",
+      "description": "Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.",
+      "source": "Player's Handbook",
+      "page": 246
+    },
+    {
+      "name": "Grasping Vine",
+      "classes": [
+        "Druid",
+        "Ranger"
+      ],
+      "level": 4,
+      "school": "Conjuration",
+      "ritual": false,
+      "castingTime": "bonus action",
+      "range": "30 feet",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 1 minute",
+      "description": "You conjure a vine that sprouts from the ground in an unoccupied space of your choice that you can see within range. When you cast this spell, you can direct the vine to lash out at a creature within 30 feet of it that you can see. That creature must succeed on a Dexterity saving throw or be pulled 20 feet directly toward the vine. Until the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.",
+      "source": "Player's Handbook",
+      "page": 246
+    },
+    {
+      "name": "Grease",
+      "classes": [
+        "Wizard"
+      ],
+      "level": 1,
+      "school": "Conjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a bit of pork rind or butter",
+      "duration": "1 minute",
+      "description": "Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration. When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.",
+      "source": "Player's Handbook",
+      "page": 246
+    },
+    {
+      "name": "Greater Invisibility",
+      "classes": [
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 4,
+      "school": "Illusion",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 1 minute",
+      "description": "You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.",
+      "source": "Player's Handbook",
+      "page": 246
+    },
+    {
+      "name": "Greater Restoration",
+      "classes": [
+        "Druid",
+        "Cleric",
+        "Bard"
+      ],
+      "level": 5,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "diamond dust worth 100 gp, which the spell consumes",
+      "duration": "Instantaneous",
+      "description": "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target. \u00e2\u20ac\u00a2 One effect that charmed or petrified the target \u00e2\u20ac\u00a2 One curse, including the target's attunement to a cursed magic item \u00e2\u20ac\u00a2 Any reduction to one of the target's ability scores \u00e2\u20ac\u00a2 One effect reducing the target's hit point maximum",
+      "source": "Player's Handbook",
+      "page": 246
+    },
+    {
+      "name": "Guardian of Faith",
+      "classes": [
+        "Cleric"
+      ],
+      "level": 4,
+      "school": "Conjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "30 feet",
+      "components": [
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "8 hours",
+      "description": "A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity. Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.",
+      "source": "Player's Handbook",
+      "page": 246
     }
 
   ]
