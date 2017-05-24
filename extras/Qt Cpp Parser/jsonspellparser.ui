@@ -263,6 +263,11 @@
          </item>
          <item>
           <property name="text">
+           <string>Self (60-foot line)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
            <string>10 feet</string>
           </property>
          </item>
