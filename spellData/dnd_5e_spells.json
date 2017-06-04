@@ -4273,7 +4273,192 @@
       "description": "A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area. Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can't extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.",
       "source": "Player's Handbook",
       "page": 255
+    },
+    {
+      "name": "Lesser Restoration",
+      "classes": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Ranger"
+      ],
+      "level": 2,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.",
+      "source": "Player's Handbook",
+      "page": 255
+    },
+    {
+      "name": "Levitate",
+      "classes": [
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 2,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end",
+      "duration": "Concentration, up to 10 minutes",
+      "description": "One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected. The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell's range. When the spell ends, the target floats gently to the ground if it is still aloft.",
+      "source": "Player's Handbook",
+      "page": 255
+    }.
+    {
+      "name": "Light",
+      "classes": [
+        "Bard",
+        "Cleric",
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 0,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Verbal",
+        "Material"
+      ],
+      "material": "a firefly or phosphorescent moss",
+      "duration": "1 hour",
+      "description": "You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action. If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.",
+      "source": "Player's Handbook",
+      "page": 255
+    },
+    {
+      "name": "Lightning Arrow",
+      "classes": [
+        "Ranger"
+      ],
+      "level": 3,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "bonus action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Concentration, up to 1 minute",
+      "description": "The next time you make a ranged weapon attack during the spell's duration, the weapon's ammunition, or the weapon itself if it's a thrown weapon, transforms into a bolt of lightning. Make the attack roll as normal. The target takes 4d8 lightning damage on a hit, or half as much damage on a miss, instead of the weapon's normal damage. Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity saving throw. Each of these creatures takes 2d8 lightning damage on a failed save, or half as much damage on a successful one. The piece of ammunition or weapon then returns to its normal form. At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.",
+      "source": "Player's Handbook",
+      "page": 255
+    },
+    {
+      "name": "Lightning Bolt",
+      "classes": [
+        "Sorcerer",
+        "Wizard"
+      ],
+      "level": 3,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self (100-foot line)",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a bit of fur and a rod of amber, crystal, or glass",
+      "duration": "Instantaneous",
+      "description": "A stroke of lightning forming a line of 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one. The lightning ignites flammable objects in the area that aren't being worn or carried. At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot above 3rd.",
+      "source": "Player's Handbook",
+      "page": 255
+    },
+    {
+      "name": "Locate Animals or Plants",
+      "classes": [
+        "Bard",
+        "Druid",
+        "Ranger"
+      ],
+      "level": 2,
+      "school": "Divination",
+      "ritual": ,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a bit of fur from a bloodhound",
+      "duration": "Instantaneous",
+      "description": "Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.",
+      "source": "Player's Handbook",
+      "page": 256
+    },
+    {
+      "name": "Locate Creature",
+      "classes": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Ranger",
+        "Wizard"
+      ],
+      "level": 4,
+      "school": "Divination",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a bit of fur from a bloodhound",
+      "duration": "Concentration, up to 1 hour",
+      "description": "Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement. The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close - within 30 feet - at least once. If the creature you described or named is in a different form, such as being under the effects of a polymorph spell, this spell doesn't locate the creature. This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.",
+      "source": "Player's Handbook",
+      "page": 256
+    },
+    {
+      "name": "Locate Object",
+      "classes": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Ranger",
+        "Wizard"
+      ],
+      "level": 2,
+      "school": "Divination",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a forked twig",
+      "duration": "Concentration, up to 10 minutes",
+      "description": "Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement. The spell can locate a specific object known to you, as long as you have seen it up close - within 30 feet - at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.",
+      "source": "Player's Handbook",
+      "page": 256
     }
-
   ]
 }
