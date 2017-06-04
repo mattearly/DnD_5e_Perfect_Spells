@@ -12,7 +12,7 @@
 * It's not done yet, but it might be partially done right now. Feel free to check it out/test it.
     * The web parser will be hosted [here](https://bytePro17124.github.io/DnD_5e_Perfect_Spells)
 * The main data file for this project is 
-    * [dnd_5e_spells.json](parser/spellData/dnd_5e_spells.json)
+    * [dnd_5e_spells.json](spellData/dnd_5e_spells.json)
 
 ### Halp
 
