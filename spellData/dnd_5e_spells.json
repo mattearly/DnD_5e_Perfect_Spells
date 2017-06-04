@@ -4095,10 +4095,98 @@
       "description": "A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there. The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.",
       "source": "Player's Handbook",
       "page": 253
+    },
+    {
+      "name": "Inflict Wounds",
+      "classes": [
+        "Cleric"
+      ],
+      "level": 1,
+      "school": "Necromancy",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal"
+      ],
+      "material": null,
+      "duration": "Instantaneous",
+      "description": "Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.",
+      "source": "Player's Handbook",
+      "page": 253
+    },
+    {
+      "name": "Insect Plague",
+      "classes": [
+        "Druid",
+        "Sorcerer",
+        "Cleric"
+      ],
+      "level": 5,
+      "school": "Conjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "300 feet",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a few grains of sugar, some kernels of grain, and a smear of fat",
+      "duration": "Concentration, up to 10 minutes",
+      "description": "warming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere's area is difficult terrain. When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there. At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.",
+      "source": "Player's Handbook",
+      "page": 254
+    },
+    {
+      "name": "Invisibility",
+      "classes": [
+        "Bard",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+      ],
+      "level": 2,
+      "school": "Illusion",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "an eyelash encased in gum arabic",
+      "duration": "Concentration, up to 1 hour",
+      "description": "A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
+      "source": "Player's Handbook",
+      "page": 254
+    },
+    {
+      "name": "Jump",
+      "classes": [
+        "Druid",
+        "Sorcerer",
+        "Ranger",
+        "Wizard"
+      ],
+      "level": 1,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+      ],
+      "material": "a grasshopper's hind leg",
+      "duration": "1 minute",
+      "description": "You touch a creature. The creature's jump distance is tripled until the spell ends.",
+      "source": "Player's Handbook",
+      "page": 254
     }
-
-
-
 
   ]
 }
