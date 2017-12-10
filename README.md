@@ -9,10 +9,10 @@
 
 ### How to Use?
 
-* It's not done yet, but it might be partially done right now. Feel free to check it out/test it.
-    * The web parser will be hosted [here](https://bytePro17124.github.io/DnD_5e_Perfect_Spells)
-* The main data file for this project is 
+* The Main Data file for this project is 
     * [dnd_5e_spells.json](spellData/dnd_5e_spells.json)
+    * everything else is just whatever, I was messing around with options for displaying the list
+
 
 ### Halp
 
@@ -37,6 +37,7 @@
         * other options
 2. Finish JSON spell list
 3. vector graphic of open spellbook for webpage
+4. Work on the webpage for this tool/site/repo  [LINK TO WEBSITE](https://bytePro17124.github.io/DnD_5e_Perfect_Spells)  
 
 
         
