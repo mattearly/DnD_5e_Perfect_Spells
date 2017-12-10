@@ -37,7 +37,7 @@
         * other options
 2. Finish JSON spell list
 3. vector graphic of open spellbook for webpage
-4. Work on the webpage for this tool/site/repo  [LINK TO WEBSITE](https://bytePro17124.github.io/DnD_5e_Perfect_Spells)  
+4. Work on the webpage for this tool/site/repo -   [LINK TO WEBSITE](https://bytePro17124.github.io/DnD_5e_Perfect_Spells)  
 
 
         
