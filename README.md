@@ -9,6 +9,8 @@
 
 ### How to Use?
 
+* Grab the data via git clone
+    * `git@github.com:bytePro17124/DnD_5e_Perfect_Spells.git`
 * The Main Data file for this project is 
     * [dnd_5e_spells.json](spellData/dnd_5e_spells.json)
     * everything else is just whatever, I was messing around with options for displaying the list
