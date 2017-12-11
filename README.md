@@ -1,19 +1,17 @@
 # D&D 5e Perfect Spells
 
-### Goal 
+## Goal 
 
-* Input all D&D Fifth Edition Spells into JSON format, open source and faster than any other method previously in existence.
-    * Aim for perfection.
-    * For my own personal use.
+* Input all D&D Fifth Edition Spells into JSON format.
     * [Java Script Object Notation](https://www.w3schools.com/js/js_json_intro.asp)
+    * Aim for Quality
 
-### How to Use?
+## JSON Spell Data File
 
+* [dnd_5e_spells.json](spellData/dnd_5e_spells.json)
 * Grab the data via git clone
-    * `git@github.com:bytePro17124/DnD_5e_Perfect_Spells.git`
-* The Main Data file for this project is 
-    * [dnd_5e_spells.json](spellData/dnd_5e_spells.json)
-    * everything else is just whatever, I was messing around with options for displaying the list
+    * `git clone git@github.com:bytePro17124/DnD_5e_Perfect_Spells.git`
+    * Everything else is just whatever, I was messing around with options for displaying the list
 
 
 ### Halp
