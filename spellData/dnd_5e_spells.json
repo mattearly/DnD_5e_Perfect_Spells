@@ -10,7 +10,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "60ft",
+      "range": "60ft",
       "components": [
         "Somatic",
         "Verbal"
@@ -31,7 +31,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -53,13 +53,13 @@
       "school": "Abjuration",
       "ritual": true,
       "castingTime": "1 minute",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal",
         "Material"
       ],
-      "material": "a tiny bell an d a piece of fine silver wire",
+      "material": "a tiny bell an-*d a piece of fine silver wire",
       "duration": "8 hours",
       "description": "You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible. A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.",
       "source": "Player's Handbook",
@@ -75,7 +75,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal"
@@ -97,7 +97,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -120,7 +120,7 @@
       "school": "Enchantment",
       "ritual": true,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -141,7 +141,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -162,7 +162,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "1 minute",
-      "Range": "10 feet",
+      "range": "10 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -185,7 +185,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "120 feet",
+      "range": "120 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -205,7 +205,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (10-foot radius)",
+      "range": "Self (10-foot radius)",
       "components": [
         "Somatic",
         "Verbal"
@@ -226,7 +226,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (10-foot radius)",
+      "range": "Self (10-foot radius)",
       "components": [
         "Somatic",
         "Verbal",
@@ -248,7 +248,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "1 hour",
-      "Range": "60 feet",
+      "range": "60 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -269,7 +269,7 @@
       "school": "Divination",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -290,7 +290,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic",
         "Verbal",
@@ -311,7 +311,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal",
@@ -332,7 +332,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (10-foot radius)",
+      "range": "Self (10-foot radius)",
       "components": [
         "Somatic",
         "Verbal"
@@ -354,7 +354,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "1 hour",
-      "Range": "10 feet",
+      "range": "10 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -375,7 +375,7 @@
       "school": "Divination",
       "ritual": true,
       "castingTime": "1 minute",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal",
@@ -396,7 +396,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (30-foot radius)",
+      "range": "Self (30-foot radius)",
       "components": [
         "Verbal"
       ],
@@ -415,7 +415,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (30-foot radius)",
+      "range": "Self (30-foot radius)",
       "components": [
         "Verbal"
       ],
@@ -434,7 +434,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (30-foot radius)",
+      "range": "Self (30-foot radius)",
       "components": [
         "Verbal"
       ],
@@ -454,7 +454,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "8 hours",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic",
         "Verbal",
@@ -476,7 +476,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -497,7 +497,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "bonus action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Verbal"
       ],
@@ -520,7 +520,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "60 feet",
+      "range": "60 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -542,7 +542,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic",
         "Verbal",
@@ -563,7 +563,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -584,7 +584,7 @@
       "school": "Divination",
       "ritual": true,
       "castingTime": "action",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic"
       ],
@@ -605,7 +605,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic",
         "Verbal"
@@ -625,7 +625,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "120 feet",
+      "range": "120 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -646,7 +646,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "90 feet",
+      "range": "90 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -669,7 +669,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal"
@@ -690,7 +690,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -715,7 +715,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -735,7 +735,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "bonus action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Verbal"
       ],
@@ -757,7 +757,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Verbal"
       ],
@@ -777,7 +777,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal"
@@ -798,7 +798,7 @@
       "school": "Illusion",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Verbal"
       ],
@@ -817,7 +817,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "bonus action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Verbal"
       ],
@@ -837,7 +837,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (15-foot cone)",
+      "range": "Self (15-foot cone)",
       "components": [
         "Somatic",
         "Verbal"
@@ -857,7 +857,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "120 feet",
+      "range": "120 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -878,7 +878,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "60 feet",
+      "range": "60 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -899,7 +899,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "150 feet",
+      "range": "150 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -924,7 +924,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -946,7 +946,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "action",
-      "Range": "120 feet",
+      "range": "120 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -967,7 +967,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "90 feet",
+      "range": "90 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -990,7 +990,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "action",
-      "Range": "150 feet",
+      "range": "150 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -1011,7 +1011,7 @@
       "school": "Abjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (30-foot radius)",
+      "range": "Self (30-foot radius)",
       "components": [
         "Verbal"
       ],
@@ -1033,7 +1033,7 @@
       "school": "Divination",
       "ritual": false,
       "castingTime": "10 minutes",
-      "Range": "1 mile",
+      "range": "1 mile",
       "components": [
         "Somatic",
         "Verbal",
@@ -1054,7 +1054,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "1 hour",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic",
         "Verbal",
@@ -1078,7 +1078,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "60 feet",
+      "range": "60 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -1100,7 +1100,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "120 feet",
+      "range": "120 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -1121,7 +1121,7 @@
       "school": "Illusion",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (15-foot cone)",
+      "range": "Self (15-foot cone)",
       "components": [
         "Somatic",
         "Verbal",
@@ -1144,7 +1144,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "60 feet",
+      "range": "60 feet",
       "components": [
         "Verbal"
       ],
@@ -1164,7 +1164,7 @@
       "school": "Divination",
       "ritual": true,
       "castingTime": "1 minute",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal",
@@ -1187,7 +1187,7 @@
       "school": "Divination",
       "ritual": true,
       "castingTime": "1 minute",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal"
@@ -1207,7 +1207,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "bonus action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Verbal"
       ],
@@ -1229,7 +1229,7 @@
       "school": "Divination",
       "ritual": true,
       "castingTime": "action",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal",
@@ -1250,7 +1250,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "30 feet",
+      "range": "30 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -1271,7 +1271,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (60-foot cone)",
+      "range": "Self (60-foot cone)",
       "components": [
         "Somatic",
         "Verbal",
@@ -1295,7 +1295,7 @@
       "school": "Enchantment",
       "ritual": false,
       "castingTime": "action",
-      "Range": "90 feet",
+      "range": "90 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -1317,7 +1317,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "60 feet",
+      "range": "60 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -1337,7 +1337,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Self (60-foot cone)",
+      "range": "Self (60-foot cone)",
       "components": [
         "Somatic",
         "Verbal",
@@ -1358,7 +1358,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "1 minute",
-      "Range": "90 feet",
+      "range": "90 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -1379,7 +1379,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "1 minute",
-      "Range": "90 feet",
+      "range": "90 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -1401,7 +1401,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "1 minute",
-      "Range": "90 feet",
+      "range": "90 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -1422,7 +1422,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "1 minute",
-      "Range": "90 feet",
+      "range": "90 feet",
       "components": [
         "Somatic",
         "Verbal"
@@ -1442,7 +1442,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "150 feet",
+      "range": "150 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -1464,7 +1464,7 @@
       "school": "Conjuration",
       "ritual": false,
       "castingTime": "action",
-      "Range": "60 feet",
+      "range": "60 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -1486,7 +1486,7 @@
       "school": "Divination",
       "ritual": true,
       "castingTime": "1 minute",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Verbal"
       ],
@@ -1506,7 +1506,7 @@
       "school": "Necromancy",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic",
         "Verbal"
@@ -1526,7 +1526,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "10 minutes",
-      "Range": "Self",
+      "range": "Self",
       "components": [
         "Somatic",
         "Verbal",
@@ -1548,7 +1548,7 @@
       "school": "Evocation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "Touch",
+      "range": "Touch",
       "components": [
         "Somatic",
         "Verbal",
@@ -1570,7 +1570,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "action",
-      "Range": "300 feet",
+      "range": "300 feet",
       "components": [
         "Somatic",
         "Verbal",
@@ -1593,7 +1593,7 @@
       "school": "Transmutation",
       "ritual": false,
       "castingTime": "10 minutes",
-      "Range": "Self (5-mile radius)",
+      "range": "Self (5-mile radius)",
       "components": [
         "Somatic",
         "Verbal",
