@@ -4394,7 +4394,7 @@
       ],
       "level": 2,
       "school": "Divination",
-      "ritual": ,
+      "ritual": false,
       "castingTime": "action",
       "range": "Self",
       "components": [
