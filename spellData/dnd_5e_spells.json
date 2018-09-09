@@ -266,7 +266,7 @@
       "components": "Somatic, Verbal, Material",
       "material": "specially marked sticks, bones, or similar tokens worth at least 25 gp",
       "duration": "Instantaneous",
-      "description": "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens. 1. Weal, for good results 2. Woe, for bad results 3. Weal and Woe, for both good and bad results 4. Nothing, for results that aren't especially good or bad] The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion. If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.",
+      "description": "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens. 1. Weal, for good results 2. Woe, for bad results 3. Weal and Woe, for both good and bad results 4. Nothing, for results that aren't especially good or bad. The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion. If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.",
       "source": "Player's Handbook",
       "page": 215
     },
@@ -1133,11 +1133,7 @@
       "ritual": false,
       "castingTime": "action",
       "range": "5 feet",
-      "components": [
-        "Somatic",
-        "Verbal", 
-        "Material"
-      ],
+      "components": "Somatic, Verbal, Material",
       "material": "four or more arrows or bolts",
       "duration": "8 hours",
       "description": "You plant four pieces of nonmagical ammunition - arrows or crossbow bolts - in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains. When you cast this spell, you can designate any creatures you choose, and the spell ignores them. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd",
@@ -1152,8 +1148,8 @@
       "ritual": false,
       "castingTime": "reaction",
       "range": "60 feet",
-      "components": ["Somatic"],
-      "material": null,
+      "components": "Somatic",
+	  "material": null,
       "duration": "Instantaneous",
       "description": "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect. At Higher Level. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.",
       "source": "Player's Handbook",
@@ -1167,8 +1163,8 @@
       "ritual": false,
       "castingTime": "action",
       "range": "30 feet",
-      "components": ["Somatic", "Verbal"],
-      "material": null,
+      "components": "Somatic, Verbal",
+	  "material": null,
       "duration": "Instantaneous",
       "description": "You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.",
       "source": "Player's Handbook",
@@ -1197,12 +1193,7 @@
       "ritual": false,
       "castingTime": "action",
       "range": "30 feet",
-      "components": [
-        "Somatic",
-        "Verbal",
-        "Material"
-
-      ],
+      "components": "Somatic, Verbal, Material",
       "material": "a drop of water if creating water or a few grains of sand if destroying it",
       "duration": "Instantaneous",
       "description": "You either create or destroy water. Create Water: You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area. Destroy Water: You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.",
