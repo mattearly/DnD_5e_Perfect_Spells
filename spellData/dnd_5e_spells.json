@@ -2,10 +2,7 @@
   "allSpells": [
     {
       "name": "Acid Splash",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 0,
       "school": "Conjuration",
       "ritual": false,
@@ -23,10 +20,7 @@
     },
     {
       "name": "Aid",
-      "classes": [
-        "Paladin",
-        "Cleric"
-      ],
+      "classes": "Paladin, Cleric",
       "level": 2,
       "school": "Abjuration",
       "ritual": false,
@@ -45,10 +39,7 @@
     },
     {
       "name": "Alarm",
-      "classes": [
-        "Ranger",
-        "Wizard"
-      ],
+      "classes": "Ranger, Wizard",
       "level": 1,
       "school": "Abjuration",
       "ritual": true,
@@ -67,10 +58,7 @@
     },
     {
       "name": "Alter Self",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 2,
       "school": "Transmutation",
       "ritual": false,
@@ -88,11 +76,7 @@
     },
     {
       "name": "Animal Friendship",
-      "classes": [
-        "Druid",
-        "Ranger",
-        "Bard"
-      ],
+      "classes": "Druid, Ranger, Bard",
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
@@ -111,11 +95,7 @@
     },
     {
       "name": "Animal Messenger",
-      "classes": [
-        "Druid",
-        "Ranger",
-        "Bard"
-      ],
+      "classes": "Druid, Ranger, Bard",
       "level": 2,
       "school": "Enchantment",
       "ritual": true,
@@ -682,10 +662,7 @@
     },
     {
       "name": "Bless",
-      "classes": [
-        "Paladin",
-        "Cleric"
-      ],
+      "classes": "Paladin, Cleric",
       "level": 1,
       "school": "Enchantment",
       "ritual": false,
@@ -769,10 +746,7 @@
     },
     {
       "name": "Blink",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 3,
       "school": "Transmutation",
       "ritual": false,
@@ -790,10 +764,7 @@
     },
     {
       "name": "Blur",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 2,
       "school": "Illusion",
       "ritual": false,
@@ -829,10 +800,7 @@
     },
     {
       "name": "Burning Hands",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 1,
       "school": "Evocation",
       "ritual": false,
@@ -891,10 +859,7 @@
     },
     {
       "name": "Chain Lightning",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 6,
       "school": "Evocation",
       "ritual": false,
@@ -959,10 +924,7 @@
     },
     {
       "name": "Chromatic Orb",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 1,
       "school": "Evocation",
       "ritual": false,
@@ -1092,10 +1054,7 @@
     },
     {
       "name": "Cloudkill",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 5,
       "school": "Conjuration",
       "ritual": false,
@@ -1113,10 +1072,7 @@
     },
     {
       "name": "Color Spray",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 1,
       "school": "Illusion",
       "ritual": false,
@@ -1156,10 +1112,7 @@
     },
     {
       "name": "Commune",
-      "classes": [
-        "Paladin",
-        "Cleric"
-      ],
+      "classes": "Paladin, Cleric",
       "level": 5,
       "school": "Divination",
       "ritual": true,
@@ -1263,10 +1216,7 @@
     },
     {
       "name": "Cone of Cold",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 5,
       "school": "Evocation",
       "ritual": false,
@@ -1641,10 +1591,7 @@
     },
     {
       "name": "Create Food and Water",
-      "classes": [
-        "Cleric",
-        "Paladin"
-      ],
+      "classes": "Paladin, Cleric",
       "level": 3,
       "school": "Conjuration",
       "ritual": false,
@@ -1705,10 +1652,7 @@
     },
     {
       "name": "Creation",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 5,
       "school": "Illusion",
       "ritual": false,
@@ -1906,10 +1850,7 @@
     },
     {
       "name": "Delayed Blast Fireball",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 7,
       "school": "Evocation",
       "ritual": false,
@@ -1967,10 +1908,7 @@
     },
     {
       "name": "Detect Evil and Good",
-      "classes": [
-        "Paladin",
-        "Cleric"
-      ],
+      "classes": "Paladin, Cleric",
       "level": 1,
       "school": "Divination",
       "ritual": false,
@@ -2104,10 +2042,7 @@
     },
     {
       "name": "Disintegrate",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 6,
       "school": "Transmutation",
       "ritual": false,
@@ -2126,10 +2061,7 @@
     },
     {
       "name": "Dispel Evil and Good",
-      "classes": [
-        "Paladin",
-        "Cleric"
-      ],
+      "classes": "Paladin, Cleric",
       "level": 5,
       "school": "Abjuration",
       "ritual": false,
@@ -2468,10 +2400,7 @@
     },
     {
       "name": "Enlarge/Reduce",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 2,
       "school": "Transmutation",
       "ritual": false,
@@ -2679,10 +2608,7 @@
     },
     {
       "name": "False Life",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 1,
       "school": "Necromancy",
       "ritual": false,
@@ -2881,10 +2807,7 @@
     },
     {
       "name": "Finger of Death",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 7,
       "school": "Necromancy",
       "ritual": false,
@@ -3364,10 +3287,7 @@
     },
     {
       "name": "Globe of Invulnerability",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 6,
       "school": "Abjuration",
       "ritual": false,
@@ -3686,10 +3606,7 @@
     },
     {
       "name": "Haste",
-      "classes": [
-        "Sorcerer",
-        "Wizard"
-      ],
+      "classes": "Sorcerer, Wizard",
       "level": 3,
       "school": "Transmutation",
       "ritual": false,
@@ -4387,14 +4304,10 @@
     },
     {
       "name": "Locate Animals or Plants",
-      "classes": [
-        "Bard",
-        "Druid",
-        "Ranger"
-      ],
+      "classes": "Druid, Ranger, Bard",
       "level": 2,
       "school": "Divination",
-      "ritual": ,
+      "ritual": true,
       "castingTime": "action",
       "range": "Self",
       "components": [
