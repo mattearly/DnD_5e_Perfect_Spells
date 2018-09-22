@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": ";EACE,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,yCAAyC;EAC9C,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,MAAM;AAKpB,IAAI;EACF,IAAI,EAAE,uCAAgB;EACtB,KAAK,EAJS,IAAI",
-"sources": ["../sass/bigSassy.sass"],
-"names": [],
-"file": "style.css"
-}
