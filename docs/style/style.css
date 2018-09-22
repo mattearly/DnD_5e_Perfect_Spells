@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Elminster";
+  src: url("fonts/Elminster.otf") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+body {
+  font: 100% "Elminster", Helvetica, sans-serif;
+  color: #333; }
+
+/*# sourceMappingURL=style.css.map */
