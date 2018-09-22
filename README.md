@@ -1,12 +1,14 @@
 # D&D 5e Perfect Spells
 
-### Project 
+##### Project 
 
-* Curate all D&D Fifth Edition Spells into [JSON](https://www.w3schools.com/js/js_json_intro.asp) format.
+* Curate all [D&D Fifth Edition Spells](https://media.wizards.com/2015/downloads/dnd/DnD_SpellLists_1.01.pdf ) into [JSON](https://www.w3schools.com/js/js_json_intro.asp) format.
 
-### Spell Data File
+##### Spell Data File
 
 * [dnd_5e_spells.json](spellData/dnd_5e_spells.json)
+
+##### Example JSON Data
 
 ````
 {
@@ -45,12 +47,12 @@
 }
 ````
 
-### Halp
+##### Halp
 
-* Any assistance curating this list (to perfection) is appreciated.
+* Any assistance curating this list would be appreciated.
 * Note that the website in docs/ is not functional - I was just messing around with some stuff and ideas. If someone wants to work on it that'd be cool, I probably won't get time to.
 
-### License
+##### License
 
 * These spells are from the [Wizards of the Coast Dungeons & Dragons](http://dnd.wizards.com/) 5th Edition books unless otherwise mentioned on the spell source.
 
