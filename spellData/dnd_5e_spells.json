@@ -3130,6 +3130,20 @@
       "description": "You touch a creature. The target's speed increases by 10 feet until the spell ends. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.",
       "source": "Player's Handbook",
       "page": 256
+    },
+      "name": "Mage Armor",
+      "classes": "Sorcerer, Wizard",
+      "level": 1,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": "Somatic, Verbal, Material",
+      "material": a piece of cured leather,
+      "duration": "8 hours",
+      "description": "You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.",
+      "source": "Player's Handbook",
+      "page": 256
     }
   ]
 }
