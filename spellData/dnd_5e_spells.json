@@ -3144,6 +3144,21 @@
       "description": "You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.",
       "source": "Player's Handbook",
       "page": 256
+    },
+    {
+      "name": "Mage Hand",
+      "classes": "Sorcerer, Bard, Warlock, Wizard",
+      "level": 0,
+      "school": "Conjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "30 feet",
+      "components": "Somatic, Verbal",
+      "material": null,
+      "duration": "1 minute",
+      "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again. You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can't attack, activate magical items, or carry more than 10 pounds.",
+      "source": "Player's Handbook",
+      "page": 256
     }
   ]
 }
