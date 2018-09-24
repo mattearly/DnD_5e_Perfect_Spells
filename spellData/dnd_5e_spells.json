@@ -3324,6 +3324,66 @@
       "description": "You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze. The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a minotaur or goristro demon automatically succeeds). When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.",
       "source": "Player's Handbook",
       "page": 258
+    },
+    {
+      "name": "Meld into Stone",
+      "classes": "Druid, Cleric",
+      "level": 3,
+      "school": "Transmutation",
+      "ritual": true,
+      "castingTime": "1 action",
+      "range": "Touch",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "8 hours",
+      "description": "You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses. While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use your movement to leave the stone where you entered it, which ends the spell. You otherwise can't move. Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 bludgeoning damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered.",
+      "source": "Player's Handbook",
+      "page": 259
+    },
+    {
+      "name": "Melf's Acid Arrow",
+      "classes": "Druid, Wizard",
+      "level": 2,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "1 action",
+      "range": "90 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "powdered rhubarb leaf and an adder's stomach",
+      "duration": "powdered rhubarb leaf and an adder's stomach",
+      "description": "A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.",
+      "source": "Player's Handbook",
+      "page": 259
+    },
+    {
+      "name": "Mending",
+      "classes": "Druid, Sorcerer, Cleric, Wizard, Bard",
+      "level": 0,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "1 minute",
+      "range": "Touch",
+      "components": "Somatic, Verbal, Material",
+      "material": "two lodestones",
+      "duration": "Instantaneous",
+      "description": "This spell repairs a single break or tear in an object you touch, such as broken chain link, two halves of a broken key, a torn clack, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage. This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.",
+      "source": "Player's Handbook",
+      "page": 259
+    },
+    {
+      "name": "Message",
+      "classes": "Sorcerer, Wizard, Bard",
+      "level": 0,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "1 action",
+      "range": "120 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "a short piece of copper wire",
+      "duration": "1 round",
+      "description": "You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings",
+      "source": "Player's Handbook",
+      "page": 259
     }
   ]
 }
