@@ -3219,6 +3219,21 @@
       "description": "You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message. When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that words appear to come from the object's mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeats its message whenever the trigger occurs. The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.",
       "source": "Player's Handbook",
       "page": 257
-    }    
+    },
+    {
+      "name": "Magic Weapon",
+      "classes": "Paladin, Wizard",
+      "level": 2,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "bonus action",
+      "range": "Touch",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "Concentration, up to 1 hour",
+      "description": "You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.",
+      "source": "Player's Handbook",
+      "page": 257
+    }
   ]
 }
