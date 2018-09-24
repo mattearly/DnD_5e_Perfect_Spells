@@ -3139,7 +3139,7 @@
       "castingTime": "action",
       "range": "Touch",
       "components": "Somatic, Verbal, Material",
-      "material": a piece of cured leather,
+      "material": "a piece of cured leather",
       "duration": "8 hours",
       "description": "You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.",
       "source": "Player's Handbook",
@@ -3157,6 +3157,21 @@
       "material": null,
       "duration": "1 minute",
       "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again. You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can't attack, activate magical items, or carry more than 10 pounds.",
+      "source": "Player's Handbook",
+      "page": 256
+    },
+    {
+      "name": "Magic Circle",
+      "classes": "Paladin, Warlock, Cleric, Wizard",
+      "level": 3,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "1 minute",
+      "range": "10 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "holy water or powdered silver and iron worth at least 100 gp, which the spell consumes",
+      "duration": "1 hour",
+      "description": "You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface. Choose one or more of the following types of creatures - celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways. \u00e2\u20ac\u00a2 The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw. \u00e2\u20ac\u00a2 The creature has disadvantage on attack rolls against targets within the cylinder. \u00e2\u20ac\u00a2 Targets within the cylinder can't be charmed, frightened, or possessed by the creature. When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it. At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.",
       "source": "Player's Handbook",
       "page": 256
     }
