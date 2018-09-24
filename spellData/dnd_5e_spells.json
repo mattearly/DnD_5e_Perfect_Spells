@@ -3549,6 +3549,51 @@
       "description": "You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible. Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm. You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can't leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.",
       "source": "Player's Handbook",
       "page": 261
+    },
+    {
+      "name": "Mordenkainen's Private Sanctum",
+      "classes": "Wizard",
+      "level": 4,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "10 minutes",
+      "range": "120 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite",
+      "duration": "24 hours",
+      "description": "You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it. When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties. \u00e2\u20ac\u00a2 Sound can't pass through the barrier at the edge of the warded area. \u00e2\u20ac\u00a2 The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it. \u00e2\u20ac\u00a2 Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter. \u00e2\u20ac\u00a2 Creatures in the area can't be targeted by divination spells. \u00e2\u20ac\u00a2 Nothing can teleport into or out of the warded area. \u00e2\u20ac\u00a2 Planar travel is blocked within the warded area. Casting this spell on the same spot every day for a year makes this effect permanent. At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.",
+      "source": "Player's Handbook",
+      "page": 262
+    },
+    {
+      "name": "Mordenkainen's Sword",
+      "classes": "Wizard, Bard",
+      "level": 7,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp",
+      "duration": "Concentration, up to 1 minute",
+      "description": "You create a sword-shaped plane of force that hovers within range. It lasts for the duration. When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit. the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.",
+      "source": "Player's Handboo",
+      "page": 262
+    },
+    {
+      "name": "Move Earth",
+      "classes": "Druid, Sorcerer, Wizard",
+      "level": 6,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "120 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "an iron blade and a small bag containing a mixture of soils - clay, loam, and sand",
+      "duration": "Concentration, up to 2 hours",
+      "description": "Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. So, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect. Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement. This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse. Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.",
+      "source": "Player's Handbook",
+      "page": 263
     }
   ]
 }
