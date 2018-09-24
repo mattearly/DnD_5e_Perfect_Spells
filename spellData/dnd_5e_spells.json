@@ -3399,6 +3399,51 @@
       "description": "Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once. The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.",
       "source": "Player's Handbook",
       "page": 259
+    },
+    {
+      "name": "Mind Blank",
+      "classes": "Wizard, Bard",
+      "level": 8,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "24 hours",
+      "description": "Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils wish spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.",
+      "source": "Player's Handbook",
+      "page": 259
+    },
+    {
+      "name": "Minor Illusion",
+      "classes": "Sorcerer, Bard, Warlock, Wizard",
+      "level": 0,
+      "school": "Illusion",
+      "ritual": false,
+      "castingTime": "1 action",
+      "range": "30 feet",
+      "components": "Somatic, Material",
+      "material": "a bit of fleece",
+      "duration": "1 minute",
+      "description": "You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends. If you create an image of an object - such as a chair, muddy footprints, or a small chest - it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it. If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.",
+      "source": "Player's Handbook",
+      "page": 260
+    },
+    {
+      "name": "Mirage Arcane",
+      "classes": "Druid, Wizard, Bard",
+      "level": 7,
+      "school": "Illusion",
+      "ritual": false,
+      "castingTime": "10 minutes",
+      "range": "Sight",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "10 days",
+      "description": "You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. The terrain's general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Similarly, you can alter the appearance of structures, or add them where none are present. The spell doesn't disguise, conceal, or add creatures. The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately. Creatures with truesight can see through the illusion to the terrain's true form, however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.",
+      "source": "Player's Handbook",
+      "page": 260
     }
   ]
 }
