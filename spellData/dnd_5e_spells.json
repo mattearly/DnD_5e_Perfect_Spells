@@ -563,13 +563,7 @@
       "ritual": false,
       "castingTime": "action",
       "range": "Self",
-<<<<<<< HEAD
       "components": "Verbal",
-=======
-      "components": [
-        "Verbal"
-      ],
->>>>>>> dffb9a3b055a46df80c33c3ea6661d6d1e013999
       "material": "none",
       "duration": "Concentration, up to 1 minute",
       "description": "Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.",
