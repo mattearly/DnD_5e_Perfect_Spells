@@ -3384,6 +3384,21 @@
       "description": "You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings",
       "source": "Player's Handbook",
       "page": 259
+    },
+    {
+      "name": "Meteor Swarm",
+      "classes": "Sorcerer, Wizard",
+      "level": 9,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "1 action",
+      "range": "1 mile",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "Instantaneous",
+      "description": "Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once. The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.",
+      "source": "Player's Handbook",
+      "page": 259
     }
   ]
 }
