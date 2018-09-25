@@ -3771,7 +3771,7 @@
       "level": false,
       "school": "Transmutation",
       "ritual": false,
-      "castingTime": "action",
+      "castingTime": "1 action or 8 hours",
       "range": "150 feet",
       "components": "Somatic, Verbal",
       "material": "none",
