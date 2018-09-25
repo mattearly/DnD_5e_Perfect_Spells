@@ -5,12 +5,12 @@
       "level": ,
       "school": "",
       "ritual": ,
-      "castingTime": "",
+      "castingTime": "action",
       "range": "",
-      "components": "",
+      "components": "Somatic, Verbal, Material",
       "material": "",
       "duration": "",
       "description": "",
-      "source": "",
+      "source": "Player's Handbook",
       "page": 
     }
