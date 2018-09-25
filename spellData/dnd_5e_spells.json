@@ -3644,6 +3644,21 @@
       "description": "Choose one creature that you can see within range. The target begins a comic dance in place - shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell. A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.",
       "source": "Player's Handbook",
       "page": 264
+    },
+    {
+      "name": "Pass Without Trace",
+      "classes": "Druid, Ranger",
+      "level": 2,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Self",
+      "components": "Somatic, Verbal, Material",
+      "material": "ashes from a burned leaf of mistletoe and a sprig of spruce",
+      "duration": "Concentration, up to 1 hour",
+      "description": "A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.",
+      "source": "Player's Handbook",
+      "page": 264
     }
   ]
 }
