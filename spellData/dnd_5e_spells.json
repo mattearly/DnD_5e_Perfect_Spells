@@ -3869,6 +3869,21 @@
       "description": "Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd",
       "source": "Player's Handbook",
       "page": 267
+    },
+    {
+      "name": "Prestidigitation",
+      "classes": "Sorcerer, Bard, Warlock, Wizard",
+      "level": 0,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "10 feet",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "Up to 1 hour",
+      "description": "This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range. \u00e2\u20ac\u00a2 You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor. \u00e2\u20ac\u00a2 You instantaneously light or snuff out a candle, a torch, or a small campfire. \u00e2\u20ac\u00a2 You instantaneously clean or soil an object no larger than 1 cubic foot. \u00e2\u20ac\u00a2 You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour. \u00e2\u20ac\u00a2 You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour. \u00e2\u20ac\u00a2 You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.",
+      "source": "Player's Handbook",
+      "page": 267
     }
   ]
 }
