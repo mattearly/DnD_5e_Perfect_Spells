@@ -3659,6 +3659,21 @@
       "description": "A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.",
       "source": "Player's Handbook",
       "page": 264
+    },
+    {
+      "name": "Passwall",
+      "classes": "Wizard",
+      "level": 5,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "30 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "a pinch of sesame seeds",
+      "duration": "1 hour",
+      "description": "A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration. You choose the opening's dimensions - up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it. When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.",
+      "source": "Player's Handbook",
+      "page": 264
     }
   ]
 }
