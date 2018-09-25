@@ -3989,6 +3989,21 @@
       "description": "Until the spell ends, one willing creature you touch is protected against certain types of creatures - aberrations, celestials, elementals, fey, fiends, and undead. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.",
       "source": "Player's Handbook",
       "page": 270
+    },
+    {
+      "name": "Protection from Poison",
+      "classes": "Druid, Paladin, Ranger, Cleric",
+      "level": 2,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "1 hour",
+      "description": "You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize on poison that you know is present, or you neutralize one at random. For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.",
+      "source": "Player's Handbook",
+      "page": 270
     }
   ]
 }
