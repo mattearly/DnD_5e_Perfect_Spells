@@ -3845,7 +3845,7 @@
       "classes": "Bard, Sorcerer, Warlock, Wizard",
       "level": 8,
       "school": "Enchantment",
-      "ritual": flase,
+      "ritual": false,
       "castingTime": "action",
       "range": "60 feet",
       "components": "Verbal",
