@@ -3854,6 +3854,21 @@
       "description": "You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect. The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends",
       "source": "Player's Handbook",
       "page": 267
+    },
+    {
+      "name": "Prayer of Healing",
+      "classes": "Cleric",
+      "level": 2,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "30 feet",
+      "components": "Verbal",
+      "material": "none",
+      "duration": "Instantaneous",
+      "description": "Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd",
+      "source": "Player's Handbook",
+      "page": 267
     }
   ]
 }
