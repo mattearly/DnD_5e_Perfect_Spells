@@ -3824,6 +3824,21 @@
       "description": "A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed, frightened, paralyzed, or stunned, the condition ends. If the creature is prone, it can use its reaction to stand up. This spell has no effect on undead or constructs.",
       "source": "Player's Handbook",
       "page": 266
+    },
+    {
+      "name": "Power Word Kill",
+      "classes": "Bard, Sorcerer, Warlock, Wizard",
+      "level": 9,
+      "school": "Enchantment",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": "Verbal",
+      "material": "none",
+      "duration": "Instantaneous",
+      "description": "You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.",
+      "source": "Player's Handbook",
+      "page": 266
     }
   ]
 }
