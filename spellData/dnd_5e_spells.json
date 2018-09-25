@@ -3704,6 +3704,21 @@
       "description": "You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends. At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.",
       "source": "Player's Handbook",
       "page": 265
+    },
+    {
+      "name": "Phantom Steed",
+      "classes": "Wizard",
+      "level": 3,
+      "school": "Illusion",
+      "ritual": true,
+      "castingTime": "1 minute",
+      "range": "30 feet",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "1 hour",
+      "description": "A Large quasi-real, horse-like creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed. For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a riding horse, except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it or if the steed takes any damage.",
+      "source": "Player's Handbook",
+      "page": 265
     }
   ]
 }
