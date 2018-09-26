@@ -4349,6 +4349,21 @@
       "description": "A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw. A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area. At Higher Levels: When you cast this spell using a spell slot of or higher, the damage increases by 1d8 for each slot level above 2nd.",
       "source": "Player's Handbook",
       "page": 275
+    },
+    {
+      "name": "Shield",
+      "classes": "Sorcerer, Wizard",
+      "level": 1,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "reaction",
+      "range": "Self",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "1 round",
+      "description": "An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.",
+      "source": "Player's Handbook",
+      "page": 275
     }
   ]
 }
