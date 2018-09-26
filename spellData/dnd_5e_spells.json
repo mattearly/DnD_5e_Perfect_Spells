@@ -4169,6 +4169,21 @@
       "description": "his spell reverses gravity in a 50-foot-radius, 100-foot high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall. If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration. At the end of the duration, affected objects and creatures fall back down.",
       "source": "Player's Handbook",
       "page": 272
+    },
+    {
+      "name": "Revivify",
+      "classes": "Paladin, Cleric",
+      "level": 3,
+      "school": "Necromancy",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": "Somatic, Verbal, Material",
+      "material": "diamonds worth 300 gp, which the spell consumes",
+      "duration": "Instantaneous",
+      "description": "You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.",
+      "source": "Player's Handbook",
+      "page": 272
     }
   ]
 }
