@@ -6230,7 +6230,7 @@
         "level": 3,
         "material": "a short piece of fine copper wire",
         "range": "Unlimited",
-        "ritual": false,
+        "ritual": ,
         "school": "Evocation",
         "source": "Player's Handbook",
         "source_page": 274,
