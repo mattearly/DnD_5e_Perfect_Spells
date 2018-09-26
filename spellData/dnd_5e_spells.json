@@ -4409,6 +4409,36 @@
       "description": "Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
       "source": "Player's Handbook",
       "page": 275
+    },
+    {
+      "name": "Silence",
+      "classes": "Bard, Cleric, Ranger",
+      "level": 2,
+      "school": "Illusion",
+      "ritual": true,
+      "castingTime": "action",
+      "range": "120 feet",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "Concentration, up to 10 minutes",
+      "description": "For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.",
+      "source": "Player's Handbook",
+      "page": 275
+    },
+    {
+      "name": "Silent Image",
+      "classes": "Bard, Sorcerer, Wizard",
+      "level": 1,
+      "school": "Illusion",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "60 feet",
+      "components": "Somatic, Verbal, Material",
+      "material": "a bit of fleece",
+      "duration": "Concentration, up to 10 minutes",
+      "description": "You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual, it isn't accompanied by sound, smell, or other sensory effects. You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.",
+      "source": "Player's Handbook",
+      "page": 276
     }
   ]
 }
