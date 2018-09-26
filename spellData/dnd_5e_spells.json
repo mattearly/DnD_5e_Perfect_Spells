@@ -4124,6 +4124,21 @@
       "description": "At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.",
       "source": "Player's Handbook",
       "page": 271
+    },
+    {
+      "name": "Resistance",
+      "classes": "Druid, Cleric",
+      "level": 0,
+      "school": "Abjuration",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "Touch",
+      "components": "Somatic, Verbal, Material",
+      "material": "a miniature cloak",
+      "duration": "Concentration, up to 1 minute",
+      "description": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.",
+      "source": "Player's Handbook",
+      "page": 272
     }
   ]
 }
