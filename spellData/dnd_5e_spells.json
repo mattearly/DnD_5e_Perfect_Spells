@@ -4514,6 +4514,21 @@
       "description": "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.",
       "source": "Player's Handbook",
       "page": 277
+    },
+    {
+      "name": "Speak with Animals",
+      "classes": "Bard, Druid, Ranger",
+      "level": 1,
+      "school": "Divination",
+      "ritual": true,
+      "castingTime": "action",
+      "range": "Self",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "10 minutes",
+      "description": "You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.",
+      "source": "Player's Handbook",
+      "page": 277
     }
   ]
 }
