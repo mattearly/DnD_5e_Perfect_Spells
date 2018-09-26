@@ -4379,6 +4379,21 @@
       "description": "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.",
       "source": "Player's Handbook",
       "page": 275
+    },
+    {
+      "name": "Shillelagh",
+      "classes": "Druid",
+      "level": 0,
+      "school": "Transmutation",
+      "ritual": false,
+      "castingTime": "bonus action",
+      "range": "Touch",
+      "components": "Somatic, Verbal, Material",
+      "material": "Mistletoe, shamrock leaf, club/quarterstaff",
+      "duration": "1 minute",
+      "description": "The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.",
+      "source": "Player's Handbook",
+      "page": 275
     }
   ]
 }
