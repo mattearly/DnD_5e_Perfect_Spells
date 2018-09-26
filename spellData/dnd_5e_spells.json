@@ -4214,6 +4214,21 @@
       "description": "Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
       "source": "Player's Handbook",
       "page": 272
+    },
+    {
+      "name": "Scorching Ray",
+      "classes": "Sorcerer, Wizard",
+      "level": 2,
+      "school": "Evocation",
+      "ritual": false,
+      "castingTime": "action",
+      "range": "120 feet",
+      "components": "Somatic, Verbal",
+      "material": "none",
+      "duration": "Instantaneous",
+      "description": "You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage. At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.",
+      "source": "Player's Handbook",
+      "page": 273
     }
   ]
 }
