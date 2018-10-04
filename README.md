@@ -50,7 +50,7 @@
 ##### Halp
 
 * Any assistance curating this list would be appreciated.
-* Note that the website in docs/ is not functional - I was just messing around with some stuff and ideas. If someone wants to work on it that'd be cool, I probably won't get time to.
+* Note that the website in `docs/` doesn't do much yet. If someone wants to work on it that'd be cool, I probably won't get time to.
 
 ##### License
 
