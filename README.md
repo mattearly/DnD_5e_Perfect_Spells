@@ -1,5 +1,7 @@
 # D&D 5e Perfect Spells
 
+All of the D&D spells in JSON format.
+
 ##### Spell Data File
 
 * [All Spells JSON file](allSpells.json)
