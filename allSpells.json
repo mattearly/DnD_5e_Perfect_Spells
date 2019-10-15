@@ -266,7 +266,7 @@
       "components": "Somatic, Verbal, Material",
       "material": "specially marked sticks, bones, or similar tokens worth at least 25 gp",
       "duration": "Instantaneous",
-      "description": "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens. 1. Weal, for good results 2. Woe, for bad results 3. Weal and Woe, for both good and bad results 4. Nothing, for results that aren't especially good or bad. The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion. If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.",
+      "description": "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens. \n\n1. Weal, for good results \n\n2. Woe, for bad results \n\n3. Weal and Woe, for both good and bad results \n\n4. Nothing, for results that aren't especially good or bad. \n\nThe spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion. If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.",
       "source": "Player's Handbook",
       "page": 215
     },
@@ -4841,7 +4841,7 @@
       "components": "Verbal",
       "material": "none",
       "duration": "Up to 1 minute",
-      "description": "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range. ",
+      "description": "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical Effects within range. \n\n1. Your voice booms up to three times as loud as normal for 1 minute. \n\n2. You cause flames to flicker, brighten, dim, or change color for 1 minute. \n\n3.You cause harmless tremors in the ground for 1 minute. \n\n4. You create an Instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers. \n\n5. You instantaneously cause an unlocked door or window to fly open or slam shut. \n\n6. You alter the appearance of your eyes for 1 minute. \n\nIf you cast this spell multiple times, you can have up to three of its 1-minute Effects active at a time, and you can dismiss such an effect as an action.",
       "source": "Player's Handbook",
       "page": 282
     },
